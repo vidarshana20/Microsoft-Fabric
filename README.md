@@ -196,5 +196,5 @@ Configured automated rules:
 
 ## 👤 Author
 
-**Aswin Gunasekaran**
+**Vidarshana Govilesh*
 M.S. Data Science – University of Michigan Dearborn
