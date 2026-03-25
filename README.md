@@ -1,5 +1,5 @@
 # Microsoft-Fabric
-# 🏢 Smart Property Management & Real-Time Analytics Platform (Microsoft Fabric)
+# 🏢 Real-Time Property Operations Analytics Platform (Microsoft Fabric)
 
 ## 📌 Overview
 
