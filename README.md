@@ -194,7 +194,4 @@ Configured automated rules:
 
 ---
 
-## 👤 Author
 
-**Vidarshana Govilesh*
-M.S. Data Science – University of Michigan Dearborn
