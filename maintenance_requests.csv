@@ -1,0 +1,601 @@
+request_id,property_id,tenant_id,category,priority,description,submitted_date,resolved_date,status,assigned_technician,cost,tenant_rating,resolution_days
+MNT00001,PROP0058,TEN0070,Landscaping,High,Landscaping issue: Arm use business individual inside.,2025-10-30,2025-10-31,Resolved,Rebecca Roberts,2302.83,1.0,1.0
+MNT00002,PROP0027,TEN0271,Structural,Low,Structural issue: Year husband live east test throw.,2025-08-01,2025-08-30,Resolved,Robert Blair,1756.26,4.0,29.0
+MNT00003,PROP0097,TEN0273,Plumbing,Medium,Plumbing issue: Different those item receive.,2025-08-30,2025-09-03,Resolved,Gabriel Washington,478.33,2.0,4.0
+MNT00004,PROP0016,TEN0344,Appliance,Medium,Appliance issue: Never agree particularly religious.,2025-01-21,,In Progress,Jessica Ortiz,,,
+MNT00005,PROP0033,TEN0157,Pest Control,Low,Pest Control issue: Health oil history force point computer create.,2025-01-19,2025-02-07,Resolved,Caitlin Moore,237.92,2.0,19.0
+MNT00006,PROP0025,TEN0079,Security,Low,Security issue: Discuss maybe police tell respond particularly end.,2025-06-07,2025-06-29,Resolved,Russell Hicks,257.92,4.0,22.0
+MNT00007,PROP0100,TEN0204,Appliance,Low,Appliance issue: Share offer able attorney specific teacher.,2025-01-15,,In Progress,Juan George,,,
+MNT00008,PROP0088,TEN0087,Electrical,High,Electrical issue: Edge game these fine cell.,2024-04-17,2024-04-22,Resolved,Jessica Jacobs,214.82,4.0,5.0
+MNT00009,PROP0032,TEN0022,Structural,Medium,Structural issue: Job knowledge effect off general recent.,2026-03-06,2026-03-11,Resolved,William Grant,1992.42,2.0,5.0
+MNT00010,PROP0042,TEN0369,HVAC,Low,HVAC issue: Health government chance age front south four.,2025-02-04,,Open,Erin Sampson,,,
+MNT00011,PROP0066,TEN0036,Landscaping,Medium,Landscaping issue: Support available ok doctor ability community share.,2025-04-16,2025-04-22,Resolved,Alicia Mitchell,896.08,2.0,6.0
+MNT00012,PROP0036,TEN0131,Structural,Emergency,Structural issue: Along national need style stay report.,2025-07-26,,Open,Lori Matthews,,,
+MNT00013,PROP0069,TEN0186,Electrical,Medium,Electrical issue: Perform identify west despite five author.,2026-01-23,2026-01-28,Resolved,Jacqueline Hernandez,312.53,3.0,5.0
+MNT00014,PROP0031,TEN0330,Electrical,Low,Electrical issue: Carry include fire particularly rise relationship.,2025-06-10,2025-06-29,Resolved,Ryan Vincent,1370.22,4.0,19.0
+MNT00015,PROP0080,TEN0291,Landscaping,Emergency,Landscaping issue: Relate mouth water about adult board.,2025-12-31,2026-01-02,Resolved,Yvonne Walker,799.88,3.0,2.0
+MNT00016,PROP0062,TEN0297,HVAC,High,HVAC issue: Kitchen eye address full perform.,2025-10-17,,In Progress,Michael Pratt,,,
+MNT00017,PROP0030,TEN0019,Electrical,High,Electrical issue: Either according above garden risk though.,2025-08-10,2025-08-14,Resolved,Julia Hooper,706.11,2.0,4.0
+MNT00018,PROP0072,TEN0333,Appliance,Medium,Appliance issue: Raise people group up language.,2024-11-07,2024-11-17,Resolved,Jennifer Oliver MD,302.85,1.0,10.0
+MNT00019,PROP0083,TEN0338,Security,Low,Security issue: Even activity street.,2025-09-18,2025-09-28,Resolved,Richard Stout,2314.18,5.0,10.0
+MNT00020,PROP0072,TEN0109,HVAC,Low,HVAC issue: Fast front similar hour remember any all.,2024-07-04,2024-07-10,Resolved,Jennifer Freeman,2227.96,1.0,6.0
+MNT00021,PROP0009,TEN0355,Landscaping,Medium,Landscaping issue: Small test former weight.,2026-02-09,2026-02-12,Resolved,Craig Valentine,1596.88,5.0,3.0
+MNT00022,PROP0087,TEN0247,Landscaping,Low,Landscaping issue: Film source water particular question.,2025-03-22,2025-04-13,Resolved,Shannon Harvey,2002.31,3.0,22.0
+MNT00023,PROP0008,TEN0371,Appliance,High,Appliance issue: Rock crime great.,2024-09-26,2024-09-28,Resolved,Mr. Robert Guerra,1494.6,1.0,2.0
+MNT00024,PROP0062,TEN0142,Landscaping,High,Landscaping issue: Begin item prevent simply contain happen close allow.,2024-06-05,2024-06-07,Resolved,Gary Riley,1051.24,5.0,2.0
+MNT00025,PROP0041,TEN0347,Electrical,Low,Electrical issue: Goal great us dinner blood.,2026-03-01,2026-03-12,Resolved,Angela Lee,58.6,3.0,11.0
+MNT00026,PROP0043,TEN0381,Landscaping,Medium,Landscaping issue: Organization former you civil bring themselves very.,2024-08-09,,In Progress,Michael Bryan,,,
+MNT00027,PROP0086,TEN0200,Landscaping,Low,Landscaping issue: Hear safe see husband seem material not.,2024-04-13,2024-04-20,Resolved,James Williams,262.03,1.0,7.0
+MNT00028,PROP0091,TEN0116,Structural,Low,Structural issue: Computer authority notice trial serious occur attention risk.,2026-03-18,2026-04-06,Resolved,Lauren Mitchell,2053.97,5.0,19.0
+MNT00029,PROP0035,TEN0396,Security,Low,Security issue: North however guess firm.,2025-10-13,2025-11-06,Resolved,Tanner Stewart,1103.25,5.0,24.0
+MNT00030,PROP0026,TEN0151,HVAC,Medium,HVAC issue: Recognize myself contain popular.,2024-06-03,2024-06-11,Resolved,Eric Burton,1973.03,5.0,8.0
+MNT00031,PROP0030,TEN0277,Landscaping,Medium,Landscaping issue: Force business can age plant choice over value.,2024-11-04,2024-11-07,Resolved,Tracy Kerr,1668.01,4.0,3.0
+MNT00032,PROP0079,TEN0038,Pest Control,Low,Pest Control issue: Deal serious dark.,2025-05-03,2025-06-02,Resolved,Nancy Reyes,239.96,4.0,30.0
+MNT00033,PROP0049,TEN0012,Appliance,Low,Appliance issue: Six middle difficult rule pretty nearly.,2026-03-13,2026-03-20,Resolved,Vicki Bruce,928.34,5.0,7.0
+MNT00034,PROP0074,TEN0287,HVAC,Medium,HVAC issue: Us former personal store so.,2025-10-20,2025-10-23,Resolved,Aaron Sullivan,2451.98,5.0,3.0
+MNT00035,PROP0048,TEN0072,Electrical,High,Electrical issue: Improve nature throughout firm.,2024-12-27,2025-01-01,Resolved,Lisa Harris,338.56,4.0,5.0
+MNT00036,PROP0059,TEN0149,Electrical,Medium,Electrical issue: A action because wide out agency.,2024-10-09,2024-10-18,Resolved,Jaclyn Leon,1970.94,1.0,9.0
+MNT00037,PROP0070,TEN0345,HVAC,Low,HVAC issue: Thank almost with.,2025-08-30,2025-09-23,Resolved,Aimee Duffy,448.66,5.0,24.0
+MNT00038,PROP0062,TEN0172,Electrical,Medium,Electrical issue: Become at yes pattern fact.,2025-12-08,2025-12-14,Resolved,Cristina Campbell,307.83,5.0,6.0
+MNT00039,PROP0045,TEN0349,Structural,Medium,Structural issue: Rest together measure second rest provide reason.,2024-06-02,,Open,Michael Escobar,,,
+MNT00040,PROP0017,TEN0188,Security,High,Security issue: Past describe food increase because.,2024-05-07,2024-05-08,Resolved,Carla Grant,587.92,3.0,1.0
+MNT00041,PROP0053,TEN0141,Plumbing,Medium,Plumbing issue: Movie black total discover couple.,2024-08-23,2024-08-27,Resolved,Tammy Gutierrez,1282.59,5.0,4.0
+MNT00042,PROP0079,TEN0168,Structural,Low,Structural issue: Building former high win case for.,2024-03-28,2024-04-04,Resolved,Matthew Turner,2051.23,2.0,7.0
+MNT00043,PROP0021,TEN0353,Structural,High,Structural issue: Than mouth feeling.,2024-10-12,,In Progress,Natalie Wilson,,,
+MNT00044,PROP0001,TEN0247,Electrical,Low,Electrical issue: Choice exist until administration floor similar.,2025-06-03,,In Progress,Joanna Monroe,,,
+MNT00045,PROP0001,TEN0313,HVAC,High,HVAC issue: Meeting maybe high collection approach only set.,2025-03-15,2025-03-16,Resolved,William Davis,248.13,1.0,1.0
+MNT00046,PROP0096,TEN0186,Appliance,Emergency,Appliance issue: Head collection past economic husband particular.,2024-05-26,,Open,Brian Patterson,,,
+MNT00047,PROP0005,TEN0237,Electrical,High,Electrical issue: Some suffer decide wait them.,2024-12-06,2024-12-07,Resolved,Jason Carney,678.24,1.0,1.0
+MNT00048,PROP0065,TEN0294,Structural,Medium,Structural issue: Without series take financial federal.,2025-07-11,,In Progress,Virginia Prince,,,
+MNT00049,PROP0053,TEN0304,Appliance,High,Appliance issue: Defense right accept.,2025-01-14,2025-01-16,Resolved,John Nelson,2393.55,1.0,2.0
+MNT00050,PROP0053,TEN0376,Electrical,Emergency,Electrical issue: Identify glass within human message language.,2025-12-06,2025-12-07,Resolved,Aaron Barrett,811.59,5.0,1.0
+MNT00051,PROP0011,TEN0110,Electrical,Low,Electrical issue: Across room part hope.,2025-04-02,2025-04-17,Resolved,Madison Reed,1676.77,4.0,15.0
+MNT00052,PROP0029,TEN0351,HVAC,Low,HVAC issue: His sure eye meet account.,2025-04-04,2025-04-18,Resolved,John Hernandez,1921.66,2.0,14.0
+MNT00053,PROP0044,TEN0078,Landscaping,Medium,Landscaping issue: Process billion skill size agency remain hard.,2026-03-03,,In Progress,David Meyer,,,
+MNT00054,PROP0058,TEN0100,Appliance,Emergency,Appliance issue: Type course amount either body hair environmental very.,2025-08-22,2025-08-24,Resolved,Catherine Walker,793.92,2.0,2.0
+MNT00055,PROP0041,TEN0117,Landscaping,Emergency,Landscaping issue: Part want benefit machine third quite.,2024-04-19,2024-04-19,Resolved,Anita Zuniga,860.58,1.0,0.0
+MNT00056,PROP0058,TEN0228,Structural,High,Structural issue: Stage of season thousand where field quality.,2024-07-06,2024-07-10,Resolved,Julia Sosa,246.15,4.0,4.0
+MNT00057,PROP0021,TEN0106,HVAC,High,HVAC issue: Voice young develop method now whole.,2024-12-17,2024-12-22,Resolved,Joseph Williams,845.15,1.0,5.0
+MNT00058,PROP0064,TEN0323,Structural,High,Structural issue: Mouth environment toward give whole certain down.,2025-07-07,2025-07-09,Resolved,Joshua Le,2492.11,4.0,2.0
+MNT00059,PROP0100,TEN0260,Landscaping,Low,Landscaping issue: Meeting station risk they month.,2025-06-17,2025-07-13,Resolved,Noah Mcintosh,1775.19,4.0,26.0
+MNT00060,PROP0088,TEN0200,Plumbing,Medium,Plumbing issue: You wife chance maintain fast eight.,2025-01-15,2025-01-19,Resolved,Alice Barker,958.83,2.0,4.0
+MNT00061,PROP0041,TEN0138,Electrical,Medium,Electrical issue: Anyone same agreement scene sign current ball.,2025-09-05,2025-09-08,Resolved,Angela Patterson,818.68,5.0,3.0
+MNT00062,PROP0046,TEN0031,Plumbing,Low,Plumbing issue: Bit call when senior make.,2025-04-22,,Open,Katherine Compton,,,
+MNT00063,PROP0093,TEN0094,Pest Control,Emergency,Pest Control issue: Statement authority even.,2025-04-19,2025-04-21,Resolved,Ronald Mccann,882.47,4.0,2.0
+MNT00064,PROP0037,TEN0023,Security,Low,Security issue: Effort area skin north magazine.,2024-10-13,2024-11-01,Resolved,Robert Waters,171.32,3.0,19.0
+MNT00065,PROP0091,TEN0381,Pest Control,Medium,Pest Control issue: Enjoy for suffer.,2025-09-22,2025-09-25,Resolved,Jorge Douglas,755.22,5.0,3.0
+MNT00066,PROP0028,TEN0156,Plumbing,Low,Plumbing issue: Should your result two condition.,2025-11-30,2025-12-23,Resolved,Evelyn Mckenzie,2347.33,2.0,23.0
+MNT00067,PROP0055,TEN0024,Structural,Low,Structural issue: Party performance offer mention it technology.,2024-06-28,2024-07-20,Resolved,Leslie Moore,2476.69,3.0,22.0
+MNT00068,PROP0079,TEN0316,HVAC,Emergency,HVAC issue: Gun down trade its enough agency.,2025-05-25,2025-05-26,Resolved,Joshua Chang,884.15,1.0,1.0
+MNT00069,PROP0047,TEN0199,Electrical,Low,Electrical issue: Carry loss toward model vote able.,2025-02-12,,Open,Kyle Wilson,,,
+MNT00070,PROP0051,TEN0293,Landscaping,Emergency,Landscaping issue: Charge serve prepare worry successful describe.,2024-07-19,2024-07-21,Resolved,Marc Erickson,1126.12,3.0,2.0
+MNT00071,PROP0006,TEN0399,Appliance,Emergency,Appliance issue: Service open report present ok final significant.,2026-01-21,2026-01-23,Resolved,William Barrett,583.62,2.0,2.0
+MNT00072,PROP0073,TEN0148,Structural,Medium,Structural issue: Brother each despite huge imagine second notice beautiful.,2024-06-09,2024-06-14,Resolved,Jacqueline Miller,1173.27,2.0,5.0
+MNT00073,PROP0043,TEN0168,Plumbing,Low,Plumbing issue: Seek whether pick side property.,2024-07-13,2024-08-07,Resolved,Cynthia Moreno,2464.15,3.0,25.0
+MNT00074,PROP0033,TEN0067,Landscaping,Low,Landscaping issue: Another available professional.,2024-08-23,2024-08-31,Resolved,Maria Harris,199.81,2.0,8.0
+MNT00075,PROP0085,TEN0294,HVAC,Low,HVAC issue: Call these both seven.,2024-08-26,,Open,Sarah Allen,,,
+MNT00076,PROP0074,TEN0021,Landscaping,High,Landscaping issue: Exist somebody government material.,2025-03-22,2025-03-24,Resolved,Mr. Ryan Lawrence PhD,2399.73,5.0,2.0
+MNT00077,PROP0053,TEN0262,Structural,Low,Structural issue: Race school situation can pass spring commercial.,2025-10-16,2025-10-25,Resolved,Charles Allen,588.86,2.0,9.0
+MNT00078,PROP0079,TEN0004,Structural,High,Structural issue: Trial push technology house explain ball red.,2026-02-12,2026-02-15,Resolved,Gabrielle Hoffman,2455.95,4.0,3.0
+MNT00079,PROP0042,TEN0290,HVAC,Low,HVAC issue: Style throw best food thank president.,2024-11-19,2024-12-12,Resolved,Laura Martinez,615.82,2.0,23.0
+MNT00080,PROP0054,TEN0344,HVAC,High,HVAC issue: Make listen side might hit.,2026-01-24,2026-01-28,Resolved,Darryl Matthews,507.02,3.0,4.0
+MNT00081,PROP0060,TEN0238,Plumbing,Medium,Plumbing issue: Leader quite water travel campaign.,2025-01-31,,In Progress,Monica Parker,,,
+MNT00082,PROP0021,TEN0116,Plumbing,Low,Plumbing issue: Feeling put research letter put.,2024-09-19,2024-10-07,Resolved,Jennifer Edwards,1827.62,2.0,18.0
+MNT00083,PROP0009,TEN0181,Electrical,Medium,Electrical issue: Soldier consider stock others success generation.,2024-04-14,,Open,Cindy Armstrong,,,
+MNT00084,PROP0099,TEN0058,Landscaping,Low,Landscaping issue: Material as court produce about.,2025-07-25,,In Progress,Alexander Scott,,,
+MNT00085,PROP0073,TEN0384,Security,Medium,Security issue: Interest card social carry.,2025-05-15,2025-05-19,Resolved,Samantha Jones,158.92,1.0,4.0
+MNT00086,PROP0097,TEN0396,Pest Control,Emergency,Pest Control issue: Large population age turn bar instead short city.,2024-08-07,,In Progress,Richard Smith,,,
+MNT00087,PROP0078,TEN0080,Security,High,Security issue: Whole top though least.,2025-02-15,2025-02-18,Resolved,Brandy Brandt,811.93,1.0,3.0
+MNT00088,PROP0085,TEN0050,HVAC,Low,HVAC issue: Well measure arm article plan campaign.,2024-05-18,,Open,Tammy Davila,,,
+MNT00089,PROP0079,TEN0151,HVAC,Medium,HVAC issue: Low minute itself for above.,2025-08-17,2025-08-21,Resolved,Christina Adkins,729.69,4.0,4.0
+MNT00090,PROP0036,TEN0336,Appliance,High,Appliance issue: Knowledge book hear art woman yard spring.,2025-07-23,2025-07-24,Resolved,William Perez,2386.04,3.0,1.0
+MNT00091,PROP0074,TEN0309,Appliance,High,Appliance issue: Improve single firm family like interview dream.,2025-07-02,,Open,Frank Mejia,,,
+MNT00092,PROP0007,TEN0142,HVAC,Low,HVAC issue: Audience talk paper try.,2024-07-10,2024-07-19,Resolved,Jane Russell,2329.4,1.0,9.0
+MNT00093,PROP0032,TEN0191,Appliance,Low,Appliance issue: Sport relate agreement throughout wonder one million area.,2025-06-25,2025-07-24,Resolved,Sara Trevino,2221.52,4.0,29.0
+MNT00094,PROP0033,TEN0203,Appliance,Low,Appliance issue: Watch speak defense nearly.,2025-03-01,2025-03-07,Resolved,Craig Duke,1127.93,4.0,6.0
+MNT00095,PROP0046,TEN0204,Electrical,Medium,Electrical issue: Nature suffer single stay into.,2025-01-01,,Open,Barbara Garrett,,,
+MNT00096,PROP0077,TEN0046,Landscaping,Medium,Landscaping issue: Price begin season thought a once their art.,2026-01-17,2026-01-20,Resolved,Dr. Crystal Johnson,1539.89,2.0,3.0
+MNT00097,PROP0075,TEN0384,Appliance,Low,Appliance issue: Speak record age.,2025-07-31,2025-08-30,Resolved,Scott Olson,1867.59,3.0,30.0
+MNT00098,PROP0009,TEN0318,Landscaping,Medium,Landscaping issue: She economic show heavy meeting.,2025-04-22,2025-04-25,Resolved,Patricia Diaz,84.28,1.0,3.0
+MNT00099,PROP0047,TEN0208,Pest Control,Emergency,Pest Control issue: Scene store rule it final worker natural.,2024-05-01,2024-05-01,Resolved,Lisa Li,1766.04,2.0,0.0
+MNT00100,PROP0011,TEN0293,Landscaping,Medium,Landscaping issue: Pay collection short.,2024-06-06,2024-06-12,Resolved,Pamela Banks,1968.9,3.0,6.0
+MNT00101,PROP0084,TEN0019,Security,Emergency,Security issue: Teacher because argue edge serve beautiful.,2024-10-13,2024-10-15,Resolved,Emily Henry,1807.34,5.0,2.0
+MNT00102,PROP0054,TEN0177,Plumbing,Medium,Plumbing issue: Write material fly course ask.,2025-02-13,2025-02-21,Resolved,Christopher Gibson,2123.95,4.0,8.0
+MNT00103,PROP0018,TEN0223,Electrical,Low,Electrical issue: Will black phone TV happy.,2025-07-20,2025-07-29,Resolved,Emma Rivera,2303.11,3.0,9.0
+MNT00104,PROP0084,TEN0285,Pest Control,Low,Pest Control issue: Method finish city plan class.,2026-01-19,2026-01-28,Resolved,Sandra Cruz,2389.65,5.0,9.0
+MNT00105,PROP0095,TEN0253,Electrical,High,Electrical issue: Everybody mouth data lose kind training.,2025-11-05,2025-11-07,Resolved,Olivia Johnson,2060.62,1.0,2.0
+MNT00106,PROP0085,TEN0308,Landscaping,Low,Landscaping issue: Study boy whatever computer stay change once.,2024-08-16,2024-08-27,Resolved,Martin Logan,1814.41,3.0,11.0
+MNT00107,PROP0059,TEN0096,Pest Control,Medium,Pest Control issue: Indeed top help reflect every during into.,2025-07-28,2025-08-07,Resolved,Jonathan Solomon,2375.63,1.0,10.0
+MNT00108,PROP0089,TEN0124,Electrical,Low,Electrical issue: Administration shoulder deal new Mrs.,2026-01-16,,In Progress,Julie Barnes,,,
+MNT00109,PROP0048,TEN0240,Landscaping,Emergency,Landscaping issue: Remember stay your fast land.,2025-10-30,2025-10-31,Resolved,Thomas Jones,1033.37,3.0,1.0
+MNT00110,PROP0093,TEN0396,Pest Control,Emergency,Pest Control issue: Recently seem sit threat although modern.,2025-08-15,2025-08-16,Resolved,Lori Butler,2478.26,3.0,1.0
+MNT00111,PROP0051,TEN0198,Landscaping,Emergency,Landscaping issue: About be outside few subject.,2025-06-20,,Open,Dr. Shaun Madden,,,
+MNT00112,PROP0044,TEN0147,Pest Control,Low,Pest Control issue: Practice bit employee big mission might form soldier.,2024-04-08,2024-05-05,Resolved,Teresa Gill,2345.27,3.0,27.0
+MNT00113,PROP0066,TEN0045,Pest Control,Low,Pest Control issue: Keep one price.,2024-04-16,2024-05-03,Resolved,Jason Duncan,1022.83,4.0,17.0
+MNT00114,PROP0024,TEN0058,Appliance,Low,Appliance issue: Product century anything reality.,2024-08-18,2024-08-31,Resolved,Lawrence Aguilar,1491.83,1.0,13.0
+MNT00115,PROP0035,TEN0093,Landscaping,Low,Landscaping issue: Who make when Mrs inside early.,2025-08-09,2025-08-23,Resolved,Nancy Horne,528.76,2.0,14.0
+MNT00116,PROP0054,TEN0060,Structural,High,Structural issue: Understand group oil total sure.,2024-06-25,2024-06-26,Resolved,Malik Miller,589.03,4.0,1.0
+MNT00117,PROP0029,TEN0054,Plumbing,Low,Plumbing issue: Forget seek his teach.,2025-02-28,2025-03-25,Resolved,April Norton,2303.39,2.0,25.0
+MNT00118,PROP0016,TEN0041,Pest Control,High,Pest Control issue: Carry our street speak prepare.,2025-10-10,2025-10-15,Resolved,Sarah Adkins,562.33,3.0,5.0
+MNT00119,PROP0095,TEN0091,Landscaping,High,Landscaping issue: Laugh control list huge culture investment never image.,2025-06-22,2025-06-25,Resolved,Jason Robinson,1643.69,4.0,3.0
+MNT00120,PROP0007,TEN0058,Security,Low,Security issue: Forget guy when key perform population interview.,2024-04-01,2024-04-11,Resolved,Timothy Barnes,2194.51,2.0,10.0
+MNT00121,PROP0029,TEN0228,Security,Medium,Security issue: Still news stop get.,2025-03-21,2025-03-29,Resolved,Susan Reid,511.34,4.0,8.0
+MNT00122,PROP0001,TEN0058,Structural,Emergency,Structural issue: First choice traditional girl these player treat.,2024-12-08,2024-12-08,Resolved,Steven Ward,2334.45,1.0,0.0
+MNT00123,PROP0004,TEN0189,Pest Control,Medium,Pest Control issue: Test together might world middle.,2024-06-22,2024-06-24,Resolved,Derek Harper,1235.42,2.0,2.0
+MNT00124,PROP0094,TEN0066,Electrical,Medium,Electrical issue: Doctor other red heavy hour idea medical list.,2024-08-17,2024-08-26,Resolved,Timothy Williams,1530.33,2.0,9.0
+MNT00125,PROP0074,TEN0355,Electrical,High,Electrical issue: Result certainly north over certainly science brother.,2025-11-06,2025-11-11,Resolved,James Lara,1261.22,2.0,5.0
+MNT00126,PROP0005,TEN0102,Electrical,Low,Electrical issue: Spring particularly organization let go.,2026-03-07,2026-03-31,Resolved,Peter Scott,1950.14,2.0,24.0
+MNT00127,PROP0093,TEN0014,HVAC,Medium,HVAC issue: Bed expect despite under.,2025-08-29,,In Progress,Amy Suarez,,,
+MNT00128,PROP0079,TEN0181,Appliance,Emergency,Appliance issue: Rate physical clear.,2024-11-26,2024-11-28,Resolved,Joshua Bernard,2045.97,2.0,2.0
+MNT00129,PROP0090,TEN0316,Appliance,High,Appliance issue: Difficult son measure travel democratic.,2025-12-21,2025-12-22,Resolved,Dylan Mathis,1210.52,2.0,1.0
+MNT00130,PROP0046,TEN0116,HVAC,Low,HVAC issue: Worker get read improve scene news.,2025-04-19,2025-05-07,Resolved,Melissa Robertson,1200.38,1.0,18.0
+MNT00131,PROP0007,TEN0283,Security,Low,Security issue: Myself maintain cultural certainly eat.,2025-11-24,2025-12-04,Resolved,Shane Mann,345.94,5.0,10.0
+MNT00132,PROP0021,TEN0103,Landscaping,Low,Landscaping issue: Wide opportunity themselves management the.,2024-07-16,2024-07-21,Resolved,Melissa Rios,917.84,5.0,5.0
+MNT00133,PROP0029,TEN0286,HVAC,High,HVAC issue: Onto south discussion ability consumer.,2025-06-10,2025-06-13,Resolved,Jordan Christian,1959.41,4.0,3.0
+MNT00134,PROP0026,TEN0167,Security,High,Security issue: Young successful resource.,2025-03-02,2025-03-04,Resolved,Lisa Molina,2457.06,2.0,2.0
+MNT00135,PROP0021,TEN0365,Plumbing,Medium,Plumbing issue: Doctor break when study couple three.,2024-05-04,2024-05-10,Resolved,Steven Saunders,2476.45,5.0,6.0
+MNT00136,PROP0020,TEN0368,HVAC,Low,HVAC issue: Fill civil somebody position story trial.,2024-10-22,2024-11-07,Resolved,Cheryl Martin,2226.65,3.0,16.0
+MNT00137,PROP0028,TEN0191,Plumbing,Emergency,Plumbing issue: World pull together although work certain.,2025-01-13,2025-01-13,Resolved,Matthew Taylor,331.11,1.0,0.0
+MNT00138,PROP0035,TEN0204,Security,Low,Security issue: Church consumer debate also may activity.,2025-08-28,2025-09-09,Resolved,David Reyes,2149.09,3.0,12.0
+MNT00139,PROP0099,TEN0063,Pest Control,Low,Pest Control issue: Produce better trip thus.,2025-02-08,2025-03-06,Resolved,Daniel Clark,1669.69,5.0,26.0
+MNT00140,PROP0037,TEN0340,Landscaping,Low,Landscaping issue: Probably season enough pick.,2025-09-18,,In Progress,Edward Hunt,,,
+MNT00141,PROP0061,TEN0024,Pest Control,Medium,Pest Control issue: Song leave fear rule ten prevent.,2024-11-15,2024-11-18,Resolved,Gilbert Dawson,952.3,4.0,3.0
+MNT00142,PROP0093,TEN0138,Electrical,Low,Electrical issue: Consumer task clear.,2024-06-04,2024-07-03,Resolved,Peggy Payne,1445.46,1.0,29.0
+MNT00143,PROP0074,TEN0370,Landscaping,Medium,Landscaping issue: Series thought culture yourself.,2025-12-31,2026-01-07,Resolved,Raymond Santiago,2021.89,1.0,7.0
+MNT00144,PROP0062,TEN0001,HVAC,Low,HVAC issue: Reason education position price.,2025-04-24,,In Progress,Miss Heather Vincent,,,
+MNT00145,PROP0013,TEN0070,Electrical,Low,Electrical issue: Tax compare meeting worker above get local.,2024-12-21,2024-12-28,Resolved,Mark Harrison,1103.49,5.0,7.0
+MNT00146,PROP0052,TEN0237,Security,Medium,Security issue: New few draw in.,2024-08-17,,In Progress,Jennifer Mejia,,,
+MNT00147,PROP0063,TEN0248,Appliance,Low,Appliance issue: Memory difficult change garden large investment even world.,2024-08-06,2024-08-30,Resolved,Linda Torres,1703.63,1.0,24.0
+MNT00148,PROP0059,TEN0174,Security,Medium,Security issue: Human sometimes door pretty generation turn security.,2024-06-06,2024-06-13,Resolved,Meagan Bradshaw,2354.73,5.0,7.0
+MNT00149,PROP0090,TEN0355,Structural,Low,Structural issue: Message realize point street red ten cold.,2025-05-16,2025-06-09,Resolved,Christian Elliott,125.65,5.0,24.0
+MNT00150,PROP0087,TEN0372,Pest Control,Low,Pest Control issue: History candidate go discussion one pull.,2025-06-15,,Open,Jacob Matthews,,,
+MNT00151,PROP0046,TEN0013,Pest Control,Medium,Pest Control issue: Well lawyer measure money improve stage continue which.,2025-09-14,2025-09-20,Resolved,Thomas Finley,2008.88,3.0,6.0
+MNT00152,PROP0062,TEN0004,Plumbing,Low,Plumbing issue: Interview rich involve listen activity month feeling Mr.,2024-12-13,2024-12-31,Resolved,Stacey Schmidt,1384.65,4.0,18.0
+MNT00153,PROP0064,TEN0206,Structural,Medium,Structural issue: Enter every third forward.,2024-06-15,2024-06-24,Resolved,Rachel Brown,543.2,3.0,9.0
+MNT00154,PROP0055,TEN0354,Plumbing,Low,Plumbing issue: Peace season figure TV big hand various.,2025-08-07,2025-08-22,Resolved,Joanna West,821.1,2.0,15.0
+MNT00155,PROP0061,TEN0102,Plumbing,Medium,Plumbing issue: Soldier public enjoy poor system.,2025-03-22,2025-03-28,Resolved,Micheal Johnson,2409.07,4.0,6.0
+MNT00156,PROP0011,TEN0057,Pest Control,Low,Pest Control issue: Federal laugh on suffer.,2025-09-18,2025-10-15,Resolved,Gina Gutierrez,1752.07,5.0,27.0
+MNT00157,PROP0060,TEN0369,Plumbing,Low,Plumbing issue: Still specific office market.,2024-07-17,2024-08-02,Resolved,Courtney Miller,1063.14,2.0,16.0
+MNT00158,PROP0055,TEN0154,Appliance,Emergency,Appliance issue: Them people oil manage.,2025-10-15,2025-10-17,Resolved,Nichole Guerrero,2109.22,3.0,2.0
+MNT00159,PROP0079,TEN0202,Pest Control,Emergency,Pest Control issue: Current friend song couple out no.,2024-08-12,2024-08-13,Resolved,Kenneth Espinoza,1896.61,3.0,1.0
+MNT00160,PROP0096,TEN0114,Structural,High,Structural issue: Money difficult still recent least music believe this.,2024-04-12,,Open,Brittany Wolfe,,,
+MNT00161,PROP0097,TEN0312,Appliance,High,Appliance issue: Summer age blood bring history news.,2024-10-30,2024-11-04,Resolved,Anne Adams,1458.55,3.0,5.0
+MNT00162,PROP0053,TEN0136,Plumbing,Medium,Plumbing issue: Lose management ahead maintain.,2024-04-16,2024-04-26,Resolved,Tiffany Thomas,1503.64,5.0,10.0
+MNT00163,PROP0054,TEN0066,Security,High,Security issue: Both agent enjoy message third stuff prevent accept.,2024-10-24,2024-10-29,Resolved,Jeff Roy,710.54,2.0,5.0
+MNT00164,PROP0021,TEN0054,Plumbing,Emergency,Plumbing issue: Weight theory newspaper evening behavior physical successful.,2025-01-11,2025-01-11,Resolved,Anthony Wright,332.1,4.0,0.0
+MNT00165,PROP0098,TEN0023,Security,Medium,Security issue: Couple kitchen long guess cell Republican even.,2024-03-24,2024-03-31,Resolved,Nicole Smith,1971.7,3.0,7.0
+MNT00166,PROP0044,TEN0242,HVAC,High,HVAC issue: Religious quality life sometimes foreign fast back.,2024-05-04,,In Progress,Christina Ferguson,,,
+MNT00167,PROP0073,TEN0222,Structural,Medium,Structural issue: Admit former matter attack onto nothing research.,2024-08-07,2024-08-11,Resolved,Melissa Thompson,2066.25,2.0,4.0
+MNT00168,PROP0095,TEN0183,Electrical,Low,Electrical issue: Whose mind fear a candidate realize.,2025-06-17,2025-06-25,Resolved,Alexander Bradford,2167.58,5.0,8.0
+MNT00169,PROP0091,TEN0305,Landscaping,Low,Landscaping issue: Newspaper range worry camera.,2025-06-06,2025-06-29,Resolved,Alex Bryant,1104.1,1.0,23.0
+MNT00170,PROP0074,TEN0313,Appliance,Emergency,Appliance issue: Organization discussion magazine up save.,2025-11-04,2025-11-05,Resolved,Michelle Peterson,1754.62,4.0,1.0
+MNT00171,PROP0050,TEN0114,Electrical,Low,Electrical issue: Not example important.,2025-11-05,2025-11-27,Resolved,Joshua Munoz,776.73,2.0,22.0
+MNT00172,PROP0025,TEN0209,HVAC,Emergency,HVAC issue: These research mission return both range billion.,2026-01-28,2026-01-28,Resolved,Rodney Stuart,1170.92,2.0,0.0
+MNT00173,PROP0034,TEN0209,Appliance,Medium,Appliance issue: Event if each half evening.,2025-03-26,2025-04-01,Resolved,Melanie Arias,1469.64,5.0,6.0
+MNT00174,PROP0095,TEN0355,Landscaping,High,Landscaping issue: Season reveal owner.,2025-06-11,2025-06-12,Resolved,Stephen Barnett,2472.01,3.0,1.0
+MNT00175,PROP0091,TEN0363,HVAC,Medium,HVAC issue: Read wish far staff toward whatever.,2025-05-18,2025-05-26,Resolved,Stephen Dixon,2021.56,1.0,8.0
+MNT00176,PROP0083,TEN0340,Security,Medium,Security issue: Represent skin half beat crime kitchen.,2024-04-30,2024-05-03,Resolved,Micheal Reyes,141.97,2.0,3.0
+MNT00177,PROP0041,TEN0030,HVAC,Low,HVAC issue: Term coach carry Congress speak place.,2025-10-11,2025-11-10,Resolved,Charles Jones,1419.76,3.0,30.0
+MNT00178,PROP0055,TEN0201,Pest Control,Low,Pest Control issue: Represent suddenly particularly occur sign brother need.,2024-07-15,2024-08-13,Resolved,Katherine Martinez,1324.77,2.0,29.0
+MNT00179,PROP0080,TEN0120,Plumbing,Low,Plumbing issue: Huge word billion rich act.,2025-04-10,2025-04-19,Resolved,Joel Gonzalez,578.04,1.0,9.0
+MNT00180,PROP0030,TEN0012,Appliance,Low,Appliance issue: Edge front sea purpose letter those.,2026-01-06,2026-01-24,Resolved,Haley Carlson,351.0,4.0,18.0
+MNT00181,PROP0059,TEN0187,Plumbing,Medium,Plumbing issue: Team prevent parent kitchen under.,2026-03-21,2026-03-25,Resolved,Patricia Kennedy,1889.71,3.0,4.0
+MNT00182,PROP0032,TEN0384,Plumbing,Low,Plumbing issue: Citizen measure writer son young.,2024-08-01,,Open,James Macdonald,,,
+MNT00183,PROP0030,TEN0377,Structural,High,Structural issue: Man newspaper edge thing whose camera.,2024-05-20,2024-05-21,Resolved,Alicia Lee,2298.85,2.0,1.0
+MNT00184,PROP0006,TEN0066,Structural,Medium,Structural issue: Exactly attack would team eat popular film.,2024-04-21,2024-04-23,Resolved,Heather Brock,2396.15,2.0,2.0
+MNT00185,PROP0038,TEN0027,Pest Control,Low,Pest Control issue: Data save foot share perform.,2025-01-11,2025-02-08,Resolved,Gregory Miranda,1183.3,1.0,28.0
+MNT00186,PROP0061,TEN0329,Security,Medium,Security issue: Within style one prevent face.,2024-12-07,2024-12-15,Resolved,Thomas Young,1521.76,2.0,8.0
+MNT00187,PROP0034,TEN0026,Landscaping,Medium,Landscaping issue: Charge official week medical might onto word.,2024-10-04,2024-10-09,Resolved,Corey Maldonado,1710.21,2.0,5.0
+MNT00188,PROP0044,TEN0259,Electrical,Low,Electrical issue: Art decide writer police middle challenge.,2025-06-19,2025-07-04,Resolved,Kristen Luna,1015.8,5.0,15.0
+MNT00189,PROP0037,TEN0365,Structural,Emergency,Structural issue: And president quickly boy.,2024-04-05,2024-04-06,Resolved,Craig Evans,509.68,5.0,1.0
+MNT00190,PROP0099,TEN0040,HVAC,Low,HVAC issue: Before bring purpose long knowledge modern per.,2025-07-02,2025-07-09,Resolved,Danny Phillips,2416.73,1.0,7.0
+MNT00191,PROP0031,TEN0357,Pest Control,Emergency,Pest Control issue: Appear on very down.,2025-06-29,2025-06-29,Resolved,Steven Werner,2232.6,1.0,0.0
+MNT00192,PROP0059,TEN0026,Security,Low,Security issue: Receive why necessary lead.,2025-10-04,2025-10-10,Resolved,Cindy Williams,1490.0,5.0,6.0
+MNT00193,PROP0080,TEN0129,Pest Control,Low,Pest Control issue: Great score cause present.,2025-12-28,2026-01-12,Resolved,Louis Galloway,398.16,4.0,15.0
+MNT00194,PROP0050,TEN0384,Structural,Low,Structural issue: Sit begin key in heart interest.,2025-09-08,,In Progress,Jay Obrien,,,
+MNT00195,PROP0020,TEN0074,Electrical,Medium,Electrical issue: Occur easy serious little.,2024-06-13,2024-06-20,Resolved,Paula Patton,987.13,2.0,7.0
+MNT00196,PROP0025,TEN0379,Plumbing,Medium,Plumbing issue: Boy enough actually approach.,2024-11-11,2024-11-16,Resolved,Kim Thornton,2199.16,1.0,5.0
+MNT00197,PROP0040,TEN0258,Security,Medium,Security issue: Rock organization concern serve skill him.,2025-01-09,2025-01-16,Resolved,Alvin Tanner,2020.88,1.0,7.0
+MNT00198,PROP0048,TEN0315,Landscaping,High,Landscaping issue: Reason resource film per leave.,2026-03-05,2026-03-06,Resolved,Thomas Cox,817.39,4.0,1.0
+MNT00199,PROP0064,TEN0132,HVAC,Medium,HVAC issue: Gas bad thought customer kitchen article bill.,2026-02-11,2026-02-16,Resolved,Gary Crosby,1064.58,3.0,5.0
+MNT00200,PROP0024,TEN0232,Security,Medium,Security issue: Since issue ability start hit difference.,2025-05-11,2025-05-15,Resolved,Michael Long,92.97,1.0,4.0
+MNT00201,PROP0052,TEN0179,Electrical,Low,Electrical issue: Ground enough boy professor environmental democratic situation.,2024-12-16,2025-01-09,Resolved,Brian Williams,1826.56,2.0,24.0
+MNT00202,PROP0020,TEN0304,Structural,Low,Structural issue: Officer two owner alone recent arm laugh.,2025-05-23,2025-06-07,Resolved,Cynthia Rodriguez,828.48,5.0,15.0
+MNT00203,PROP0052,TEN0120,Landscaping,Low,Landscaping issue: Organization many should never.,2025-04-18,2025-05-14,Resolved,Joseph Taylor,1820.66,2.0,26.0
+MNT00204,PROP0006,TEN0221,Landscaping,Low,Landscaping issue: Actually everything plant so listen home we meeting.,2025-07-03,,In Progress,Wesley Gomez,,,
+MNT00205,PROP0013,TEN0100,Appliance,High,Appliance issue: He word find forward.,2024-06-12,2024-06-13,Resolved,Regina Dunn,1359.36,2.0,1.0
+MNT00206,PROP0091,TEN0081,Electrical,High,Electrical issue: Anything movement attorney outside.,2026-01-05,2026-01-07,Resolved,Alexander Goodman DVM,473.59,1.0,2.0
+MNT00207,PROP0048,TEN0384,Structural,Medium,Structural issue: Sea while clearly the suddenly.,2025-09-04,2025-09-11,Resolved,David Miller,1381.43,5.0,7.0
+MNT00208,PROP0064,TEN0206,Structural,High,Structural issue: Blue college involve off impact learn another.,2024-04-03,2024-04-08,Resolved,Charles Taylor,1366.22,4.0,5.0
+MNT00209,PROP0040,TEN0157,HVAC,High,HVAC issue: Return dog garden once mention suggest.,2025-04-22,2025-04-23,Resolved,Crystal Lawrence,2323.77,4.0,1.0
+MNT00210,PROP0057,TEN0327,Security,Low,Security issue: Safe concern region per.,2024-12-23,2025-01-07,Resolved,Michelle Lopez,1612.62,3.0,15.0
+MNT00211,PROP0052,TEN0384,Structural,High,Structural issue: Check cold Democrat low.,2025-05-17,2025-05-19,Resolved,Donald Pineda,491.72,5.0,2.0
+MNT00212,PROP0019,TEN0367,Landscaping,High,Landscaping issue: Anyone because another keep.,2024-09-08,,Open,Edward Jacobs,,,
+MNT00213,PROP0006,TEN0146,HVAC,Medium,HVAC issue: Someone else price new from study still maybe.,2026-02-17,2026-02-22,Resolved,Dave Lee,2347.27,5.0,5.0
+MNT00214,PROP0099,TEN0359,Electrical,Low,Electrical issue: Happy power natural.,2025-10-27,2025-11-20,Resolved,Heather Cortez,1505.45,5.0,24.0
+MNT00215,PROP0036,TEN0295,Electrical,Medium,Electrical issue: Among along pull blue former bring of dog.,2024-05-23,2024-05-28,Resolved,Ana Smith,189.68,4.0,5.0
+MNT00216,PROP0055,TEN0210,Plumbing,High,Plumbing issue: Subject soldier sometimes million.,2025-11-29,,Open,Michael Walls,,,
+MNT00217,PROP0096,TEN0083,Pest Control,Low,Pest Control issue: Value training main social.,2026-01-20,2026-02-06,Resolved,Joanne Rojas,163.71,2.0,17.0
+MNT00218,PROP0035,TEN0126,Appliance,Medium,Appliance issue: Catch throw significant however focus as real financial.,2024-08-02,2024-08-09,Resolved,Megan Smith,1073.93,5.0,7.0
+MNT00219,PROP0022,TEN0338,Plumbing,Low,Plumbing issue: Standard when visit enter rock head list.,2025-01-11,2025-01-28,Resolved,Shelby Adams,1902.9,2.0,17.0
+MNT00220,PROP0030,TEN0091,Appliance,High,Appliance issue: Skin at audience all support tax.,2025-10-29,2025-10-31,Resolved,Olivia Vang,1048.4,1.0,2.0
+MNT00221,PROP0065,TEN0173,Electrical,High,Electrical issue: Light staff explain his song song.,2025-05-28,2025-05-30,Resolved,Shannon Webster,657.19,5.0,2.0
+MNT00222,PROP0040,TEN0398,Electrical,Low,Electrical issue: There what seem final fall section upon.,2024-10-12,2024-10-19,Resolved,James Wright,434.29,2.0,7.0
+MNT00223,PROP0092,TEN0312,HVAC,Low,HVAC issue: Short far green wait because million fine.,2026-01-12,2026-02-03,Resolved,Erika Mckay,1179.66,5.0,22.0
+MNT00224,PROP0094,TEN0033,Security,Medium,Security issue: Education but admit run exactly.,2024-08-25,2024-08-27,Resolved,Anthony Williams,282.68,1.0,2.0
+MNT00225,PROP0055,TEN0387,Pest Control,High,Pest Control issue: Direction more natural appear effort state.,2025-05-28,,In Progress,Kathryn Martin,,,
+MNT00226,PROP0032,TEN0395,Electrical,Medium,Electrical issue: Student position produce discover son course.,2024-12-27,2025-01-05,Resolved,Nancy Jones,1282.76,1.0,9.0
+MNT00227,PROP0046,TEN0304,Landscaping,Medium,Landscaping issue: Cover one live describe lawyer organization.,2025-05-14,2025-05-19,Resolved,Christine Stewart DDS,1668.82,2.0,5.0
+MNT00228,PROP0095,TEN0346,Plumbing,Emergency,Plumbing issue: Line work difference tell recent trade.,2025-03-25,2025-03-26,Resolved,John Ruiz,2385.69,4.0,1.0
+MNT00229,PROP0069,TEN0197,HVAC,Medium,HVAC issue: Middle toward important range professional light ready.,2025-02-15,2025-02-18,Resolved,Juan Henderson,804.72,5.0,3.0
+MNT00230,PROP0076,TEN0290,HVAC,Medium,HVAC issue: Shoulder out political one.,2024-08-30,2024-09-05,Resolved,Jonathan Fuller,1921.79,3.0,6.0
+MNT00231,PROP0018,TEN0297,Plumbing,Medium,Plumbing issue: North according once during own positive her.,2025-12-07,2025-12-16,Resolved,Katherine Rodriguez,1496.15,3.0,9.0
+MNT00232,PROP0009,TEN0392,Security,Medium,Security issue: Popular fast crime list how.,2025-08-10,,In Progress,Gregory Byrd,,,
+MNT00233,PROP0040,TEN0352,Security,Low,Security issue: Almost traditional individual of.,2025-08-13,,Open,Andrew Esparza,,,
+MNT00234,PROP0078,TEN0259,Structural,Low,Structural issue: Choose to subject standard responsibility measure.,2026-02-03,2026-02-22,Resolved,Joseph Smith,1593.29,2.0,19.0
+MNT00235,PROP0052,TEN0376,Electrical,Emergency,Electrical issue: Else particular his health issue stock past.,2024-10-26,2024-10-27,Resolved,James Anderson,74.2,5.0,1.0
+MNT00236,PROP0022,TEN0340,Landscaping,High,Landscaping issue: Receive leave success husband agreement help.,2026-01-20,2026-01-21,Resolved,Christina Herrera,391.88,4.0,1.0
+MNT00237,PROP0006,TEN0204,Landscaping,Low,Landscaping issue: Pressure current prove owner.,2024-04-12,2024-05-06,Resolved,Michelle Rogers,1359.87,3.0,24.0
+MNT00238,PROP0046,TEN0267,Electrical,High,Electrical issue: Whatever somebody benefit girl action how pressure yeah.,2024-07-11,2024-07-16,Resolved,Jeffrey Swanson,2193.59,1.0,5.0
+MNT00239,PROP0043,TEN0248,Structural,Medium,Structural issue: Total section difference herself.,2025-09-10,2025-09-20,Resolved,Edward Gibson,1210.63,1.0,10.0
+MNT00240,PROP0071,TEN0178,Landscaping,Emergency,Landscaping issue: On give side ago.,2025-02-08,2025-02-09,Resolved,Clinton Newman,2292.24,1.0,1.0
+MNT00241,PROP0001,TEN0109,Plumbing,Medium,Plumbing issue: Money size situation only.,2024-04-21,2024-04-29,Resolved,Mary Fitzgerald,2180.12,5.0,8.0
+MNT00242,PROP0046,TEN0331,Appliance,Low,Appliance issue: Knowledge economic green really know.,2025-06-09,2025-06-25,Resolved,Meagan Decker,1929.77,2.0,16.0
+MNT00243,PROP0057,TEN0278,Structural,Medium,Structural issue: Blue nearly administration.,2024-12-17,2024-12-19,Resolved,Jason Evans,2285.05,1.0,2.0
+MNT00244,PROP0068,TEN0242,HVAC,Medium,HVAC issue: For affect Democrat have these page.,2025-01-21,2025-01-23,Resolved,Kimberly Mitchell DDS,549.91,3.0,2.0
+MNT00245,PROP0089,TEN0063,Plumbing,Low,Plumbing issue: Second too sign artist same could.,2026-01-21,2026-02-04,Resolved,Daniel Aguirre,2348.45,4.0,14.0
+MNT00246,PROP0062,TEN0141,Pest Control,Emergency,Pest Control issue: Statement sometimes wind behind.,2024-09-25,2024-09-25,Resolved,Anthony Perry,144.62,2.0,0.0
+MNT00247,PROP0100,TEN0065,Electrical,Medium,Electrical issue: Success rather professional certain between their leg.,2024-11-11,2024-11-19,Resolved,Sonya Carlson,1092.4,2.0,8.0
+MNT00248,PROP0024,TEN0093,Electrical,Medium,Electrical issue: Month better station beyond different.,2026-02-11,2026-02-16,Resolved,Shannon Bradley,772.49,1.0,5.0
+MNT00249,PROP0034,TEN0256,Structural,Medium,Structural issue: Way book relate meeting cover change.,2024-10-26,2024-11-01,Resolved,Andres Rocha,847.92,5.0,6.0
+MNT00250,PROP0029,TEN0308,Landscaping,Medium,Landscaping issue: Collection sister whatever site clearly.,2024-04-20,2024-04-25,Resolved,Traci Rodriguez,1248.29,1.0,5.0
+MNT00251,PROP0018,TEN0148,Pest Control,High,Pest Control issue: Message about instead book.,2026-03-15,2026-03-17,Resolved,Jacqueline Huber,2253.7,1.0,2.0
+MNT00252,PROP0001,TEN0380,Appliance,Medium,Appliance issue: Position exactly thousand season one cell phone.,2024-04-01,2024-04-05,Resolved,Joshua Green,1958.88,2.0,4.0
+MNT00253,PROP0100,TEN0328,HVAC,Medium,HVAC issue: Make be woman sign.,2024-08-04,2024-08-13,Resolved,Judith Schneider,1363.38,5.0,9.0
+MNT00254,PROP0094,TEN0127,Pest Control,Medium,Pest Control issue: All option matter candidate happy significant.,2025-09-30,2025-10-07,Resolved,Kristen Smith,1481.92,3.0,7.0
+MNT00255,PROP0022,TEN0349,Pest Control,Low,Pest Control issue: Whom first pattern stage.,2026-01-04,2026-01-19,Resolved,Brianna Hunt,852.84,3.0,15.0
+MNT00256,PROP0079,TEN0044,Security,Low,Security issue: Another yet poor.,2024-12-02,,In Progress,Margaret Moore,,,
+MNT00257,PROP0077,TEN0048,Structural,Medium,Structural issue: Seem child card gun.,2024-11-06,2024-11-12,Resolved,Jimmy Lin DDS,1614.64,3.0,6.0
+MNT00258,PROP0099,TEN0073,Structural,Medium,Structural issue: Simple area style without main popular win resource.,2024-10-24,,In Progress,Samantha Silva,,,
+MNT00259,PROP0090,TEN0293,Security,Low,Security issue: Individual total pay important Mr former agree want.,2025-01-31,2025-02-14,Resolved,Ronnie Smith,1300.84,1.0,14.0
+MNT00260,PROP0029,TEN0100,Electrical,Medium,Electrical issue: Weight financial event shake yes.,2025-02-04,2025-02-07,Resolved,James Bailey,2072.47,5.0,3.0
+MNT00261,PROP0077,TEN0094,Landscaping,Emergency,Landscaping issue: Scientist responsibility create agree political toward spend.,2025-03-30,2025-04-01,Resolved,Bradley Campbell,2039.61,5.0,2.0
+MNT00262,PROP0009,TEN0181,HVAC,Medium,HVAC issue: From occur paper per throughout.,2025-06-02,2025-06-07,Resolved,Christopher Stein,1115.25,3.0,5.0
+MNT00263,PROP0088,TEN0033,Pest Control,Low,Pest Control issue: Resource treatment onto Mr word.,2026-01-11,2026-01-30,Resolved,Brandy Lewis,571.13,3.0,19.0
+MNT00264,PROP0094,TEN0116,Security,High,Security issue: These morning follow continue.,2026-01-06,2026-01-07,Resolved,Kimberly Foley,2165.52,3.0,1.0
+MNT00265,PROP0055,TEN0352,Security,Low,Security issue: Region imagine PM bag music something.,2024-12-24,2025-01-06,Resolved,Diana Cruz,1134.6,4.0,13.0
+MNT00266,PROP0021,TEN0304,Landscaping,Medium,Landscaping issue: Tell discussion smile provide might TV safe but.,2024-04-28,2024-05-04,Resolved,Ryan Kirk,384.55,5.0,6.0
+MNT00267,PROP0074,TEN0132,Landscaping,Medium,Landscaping issue: Sell defense lay.,2026-03-23,2026-03-29,Resolved,Samantha Bradley,1459.03,1.0,6.0
+MNT00268,PROP0089,TEN0019,Electrical,Low,Electrical issue: Ago home number through.,2024-06-22,2024-07-16,Resolved,Samantha Allison,91.56,2.0,24.0
+MNT00269,PROP0088,TEN0363,Pest Control,Low,Pest Control issue: High sport including thing statement history mention ball.,2024-10-30,2024-11-26,Resolved,Scott Barrett,1329.06,3.0,27.0
+MNT00270,PROP0022,TEN0334,Structural,Medium,Structural issue: Become drop certainly office industry beyond million.,2025-12-13,2025-12-23,Resolved,Debra Holmes,2350.95,5.0,10.0
+MNT00271,PROP0093,TEN0235,Pest Control,Medium,Pest Control issue: Watch pressure live.,2024-04-18,2024-04-25,Resolved,Jorge Escobar,1448.99,5.0,7.0
+MNT00272,PROP0017,TEN0266,Electrical,High,Electrical issue: First green past east surface reason street sense.,2026-02-03,2026-02-05,Resolved,Jamie Ruiz,1480.33,5.0,2.0
+MNT00273,PROP0078,TEN0339,Electrical,High,Electrical issue: Agree focus policy mouth.,2025-07-23,2025-07-28,Resolved,Emily Pruitt,2272.89,4.0,5.0
+MNT00274,PROP0011,TEN0237,Plumbing,Emergency,Plumbing issue: National institution argue couple.,2025-08-15,2025-08-16,Resolved,Matthew Oliver,2036.67,3.0,1.0
+MNT00275,PROP0027,TEN0218,Security,High,Security issue: People line price however structure.,2025-01-15,,Open,Shelly Hanson,,,
+MNT00276,PROP0093,TEN0112,Plumbing,Low,Plumbing issue: Put although collection stand.,2024-05-11,,Open,James Cabrera,,,
+MNT00277,PROP0074,TEN0126,Security,High,Security issue: Drive trip child gas toward fund.,2026-02-08,,Open,Carol Collins,,,
+MNT00278,PROP0095,TEN0317,HVAC,High,HVAC issue: Anyone yard quality worry response life food.,2024-04-11,2024-04-16,Resolved,Stephen Taylor,412.13,4.0,5.0
+MNT00279,PROP0055,TEN0300,Appliance,Low,Appliance issue: Information too movie respond whatever environment that drug.,2026-02-01,2026-03-03,Resolved,Tracy Brock,817.05,5.0,30.0
+MNT00280,PROP0069,TEN0385,Plumbing,High,Plumbing issue: Her bed situation she wrong place.,2025-04-26,,In Progress,Diane Wood,,,
+MNT00281,PROP0003,TEN0383,Electrical,Low,Electrical issue: Southern begin education machine because determine least.,2024-04-10,2024-04-22,Resolved,Jennifer French,1354.96,5.0,12.0
+MNT00282,PROP0061,TEN0158,HVAC,Medium,HVAC issue: Military fall project maybe group difficult.,2025-11-22,2025-11-29,Resolved,Anita Anderson,153.54,1.0,7.0
+MNT00283,PROP0089,TEN0272,Pest Control,High,Pest Control issue: Attack travel spring produce research make.,2025-05-14,,In Progress,Jordan Phillips,,,
+MNT00284,PROP0042,TEN0032,HVAC,Low,HVAC issue: Foreign break main use effort single charge.,2025-08-08,,In Progress,Frederick Murphy,,,
+MNT00285,PROP0090,TEN0272,Security,Low,Security issue: Including ability city environment school TV.,2025-06-13,,In Progress,Ashley Gonzales,,,
+MNT00286,PROP0066,TEN0369,Landscaping,Medium,Landscaping issue: Away have ground month operation.,2024-12-28,,Open,Denise Woods,,,
+MNT00287,PROP0081,TEN0171,Pest Control,Emergency,Pest Control issue: Worry morning difficult involve recent special.,2024-05-24,2024-05-25,Resolved,Catherine Cortez,765.15,2.0,1.0
+MNT00288,PROP0012,TEN0334,Pest Control,High,Pest Control issue: Reduce nice early choose.,2024-06-02,2024-06-07,Resolved,Dawn Moore,924.82,1.0,5.0
+MNT00289,PROP0013,TEN0195,Structural,Low,Structural issue: Common speech outside.,2026-02-09,2026-03-07,Resolved,Valerie Wade,1205.27,2.0,26.0
+MNT00290,PROP0059,TEN0015,HVAC,Medium,HVAC issue: Many born buy plan sometimes surface main.,2024-09-09,2024-09-17,Resolved,Deanna Hunt,660.97,2.0,8.0
+MNT00291,PROP0067,TEN0043,Landscaping,High,Landscaping issue: Interview shake attack nearly two.,2025-06-27,,Open,Mitchell James,,,
+MNT00292,PROP0080,TEN0357,Security,Emergency,Security issue: Down number red game cause watch.,2024-06-20,2024-06-22,Resolved,Kelly Williamson,1605.29,3.0,2.0
+MNT00293,PROP0053,TEN0136,Plumbing,Emergency,Plumbing issue: East interview administration former million.,2025-11-20,2025-11-22,Resolved,Margaret Hudson,52.99,4.0,2.0
+MNT00294,PROP0028,TEN0005,Structural,Low,Structural issue: High hand sense require military.,2025-06-04,2025-06-22,Resolved,Jeremy Schmidt,1297.32,1.0,18.0
+MNT00295,PROP0034,TEN0325,Structural,Medium,Structural issue: School use receive.,2025-12-15,2025-12-18,Resolved,Ms. Jillian Delgado,826.62,2.0,3.0
+MNT00296,PROP0003,TEN0295,Landscaping,Medium,Landscaping issue: International reveal middle place increase a itself.,2025-07-31,2025-08-08,Resolved,Michael Mendoza,1902.62,5.0,8.0
+MNT00297,PROP0081,TEN0355,Plumbing,Medium,Plumbing issue: Stage item matter wife war government without stop.,2026-01-29,2026-02-08,Resolved,Elizabeth Robinson,1297.41,3.0,10.0
+MNT00298,PROP0041,TEN0387,Pest Control,Low,Pest Control issue: Hospital poor result face.,2025-07-21,2025-08-17,Resolved,Anthony Perez,1161.5,4.0,27.0
+MNT00299,PROP0016,TEN0233,Structural,High,Structural issue: Body follow man single support.,2024-11-04,2024-11-09,Resolved,Ethan Nixon,1982.65,4.0,5.0
+MNT00300,PROP0035,TEN0398,Plumbing,Low,Plumbing issue: Future policy service federal owner.,2026-03-17,2026-03-28,Resolved,Kendra Nelson,553.59,4.0,11.0
+MNT00301,PROP0057,TEN0334,Pest Control,Emergency,Pest Control issue: Now reach camera benefit size theory four street.,2024-06-25,2024-06-26,Resolved,Steven Levine,1213.5,1.0,1.0
+MNT00302,PROP0033,TEN0049,Appliance,High,Appliance issue: Material late catch news serve.,2025-10-26,2025-10-31,Resolved,Rose Johnson,905.31,5.0,5.0
+MNT00303,PROP0082,TEN0215,Plumbing,Low,Plumbing issue: Staff manager service clearly news record dog stage.,2025-05-17,2025-05-26,Resolved,Randall Rose,458.8,1.0,9.0
+MNT00304,PROP0034,TEN0035,HVAC,High,HVAC issue: Turn side clearly support month firm.,2024-09-04,2024-09-09,Resolved,Heather Hopkins,922.44,4.0,5.0
+MNT00305,PROP0018,TEN0004,Structural,High,Structural issue: Carry program oil option.,2025-08-09,2025-08-10,Resolved,Kimberly Hill,1739.19,3.0,1.0
+MNT00306,PROP0013,TEN0290,Appliance,Low,Appliance issue: We administration letter recent.,2025-09-24,,In Progress,Carol Green,,,
+MNT00307,PROP0092,TEN0316,Structural,Low,Structural issue: Enter mission city six research smile energy.,2025-05-20,2025-06-14,Resolved,Brenda White,1190.76,5.0,25.0
+MNT00308,PROP0094,TEN0377,Security,Low,Security issue: Remain allow kid operation high energy force.,2024-05-26,2024-06-12,Resolved,Meredith Choi,484.77,1.0,17.0
+MNT00309,PROP0064,TEN0153,HVAC,Low,HVAC issue: Pay finish actually change forget through star item.,2025-03-17,2025-03-22,Resolved,Wesley Bird,314.31,5.0,5.0
+MNT00310,PROP0007,TEN0019,Appliance,Medium,Appliance issue: Tough raise third anything total particularly them late.,2025-08-21,2025-08-29,Resolved,Benjamin Chang,173.14,1.0,8.0
+MNT00311,PROP0020,TEN0280,Landscaping,Medium,Landscaping issue: Model trade record behind.,2025-04-09,2025-04-13,Resolved,Rachel Torres,127.9,3.0,4.0
+MNT00312,PROP0100,TEN0122,Landscaping,High,Landscaping issue: Republican lawyer season follow personal step.,2024-12-17,2024-12-18,Resolved,Michael Bryant,1052.71,5.0,1.0
+MNT00313,PROP0075,TEN0016,Plumbing,Medium,Plumbing issue: Force body two everyone.,2024-09-08,,Open,Holly Crawford,,,
+MNT00314,PROP0018,TEN0171,Plumbing,Low,Plumbing issue: Time political size condition need teacher.,2024-09-04,,Open,Brittany Moody,,,
+MNT00315,PROP0084,TEN0232,HVAC,Low,HVAC issue: Recent general now fill charge room team.,2025-05-28,2025-06-05,Resolved,Sandra Davis,1870.95,4.0,8.0
+MNT00316,PROP0010,TEN0336,Landscaping,Medium,Landscaping issue: Exist officer build.,2025-11-22,2025-11-25,Resolved,Katelyn Perez,2309.02,3.0,3.0
+MNT00317,PROP0096,TEN0209,Electrical,Emergency,Electrical issue: Without rock institution city large risk.,2025-09-13,2025-09-13,Resolved,Cassandra Friedman,65.41,3.0,0.0
+MNT00318,PROP0040,TEN0126,Landscaping,Low,Landscaping issue: Unit boy rich whether.,2025-09-25,2025-10-04,Resolved,Danielle Huerta,2330.15,2.0,9.0
+MNT00319,PROP0024,TEN0185,HVAC,Low,HVAC issue: Force course thousand affect fine court.,2025-03-12,2025-03-29,Resolved,John Mason,2282.86,3.0,17.0
+MNT00320,PROP0097,TEN0043,HVAC,Emergency,HVAC issue: Level notice nor chair sport yes.,2024-07-04,2024-07-05,Resolved,John Russell,2067.07,4.0,1.0
+MNT00321,PROP0024,TEN0193,Plumbing,Low,Plumbing issue: Probably key style visit turn back candidate wife.,2024-08-10,,Open,Gregory Miller,,,
+MNT00322,PROP0061,TEN0210,Electrical,Medium,Electrical issue: Room get so fight budget item.,2025-10-17,2025-10-23,Resolved,Jonathan Garrison,1708.96,3.0,6.0
+MNT00323,PROP0045,TEN0355,Pest Control,Medium,Pest Control issue: White child style meet.,2025-09-09,,Open,Mary Brown,,,
+MNT00324,PROP0074,TEN0342,Electrical,Medium,Electrical issue: Fall court score growth deep however president summer.,2025-10-26,2025-10-29,Resolved,Courtney Williams,1041.28,3.0,3.0
+MNT00325,PROP0094,TEN0311,Landscaping,Low,Landscaping issue: Arm stop her art knowledge join.,2025-07-18,2025-08-09,Resolved,David Wolfe,574.04,4.0,22.0
+MNT00326,PROP0008,TEN0005,Structural,Medium,Structural issue: Myself center door walk.,2025-12-18,2025-12-20,Resolved,Dennis Yates,2061.12,5.0,2.0
+MNT00327,PROP0012,TEN0290,Electrical,Medium,Electrical issue: Lose pattern fish.,2025-07-07,,In Progress,Amy Mcbride,,,
+MNT00328,PROP0039,TEN0023,Plumbing,Medium,Plumbing issue: Term indeed form customer play.,2025-03-31,2025-04-10,Resolved,Dillon Conway,1839.39,2.0,10.0
+MNT00329,PROP0026,TEN0167,Appliance,Low,Appliance issue: Knowledge minute program year later business.,2024-08-11,2024-08-24,Resolved,Jeffrey Guzman,2378.93,5.0,13.0
+MNT00330,PROP0021,TEN0061,Appliance,Medium,Appliance issue: Collection book grow.,2026-01-26,2026-02-03,Resolved,Rebekah Bradley,412.68,1.0,8.0
+MNT00331,PROP0022,TEN0034,HVAC,Low,HVAC issue: First painting century relate audience suggest behavior.,2024-05-21,2024-06-18,Resolved,Anthony Johnson,855.69,2.0,28.0
+MNT00332,PROP0098,TEN0112,Plumbing,Low,Plumbing issue: Who anyone actually wonder heart should out choice.,2024-05-08,2024-05-13,Resolved,Duane Wright,764.64,4.0,5.0
+MNT00333,PROP0059,TEN0123,Electrical,Medium,Electrical issue: Simple floor fish quite computer nothing star.,2024-08-08,2024-08-18,Resolved,Nathan Brown,1441.91,1.0,10.0
+MNT00334,PROP0016,TEN0130,Electrical,Medium,Electrical issue: Dream bad Democrat tend.,2025-10-08,2025-10-10,Resolved,Robert Gray,1894.77,2.0,2.0
+MNT00335,PROP0031,TEN0072,Security,Low,Security issue: Without development Mrs what skill total five.,2026-01-27,2026-02-15,Resolved,Earl Murray,1805.08,1.0,19.0
+MNT00336,PROP0050,TEN0005,Pest Control,Medium,Pest Control issue: Summer reduce issue represent.,2024-10-05,2024-10-15,Resolved,Charles Avery,1001.84,1.0,10.0
+MNT00337,PROP0007,TEN0012,Structural,Medium,Structural issue: Amount positive Republican Republican discover.,2025-11-21,2025-11-29,Resolved,Misty Todd,648.58,4.0,8.0
+MNT00338,PROP0011,TEN0050,Electrical,Medium,Electrical issue: Sport even goal notice.,2025-02-01,2025-02-11,Resolved,Trevor Morales,1278.06,5.0,10.0
+MNT00339,PROP0040,TEN0077,Plumbing,Low,Plumbing issue: None property especially without treat follow thought.,2024-10-14,2024-10-27,Resolved,George Hale,1918.47,3.0,13.0
+MNT00340,PROP0053,TEN0211,Plumbing,Medium,Plumbing issue: Everybody east process save.,2025-11-06,2025-11-12,Resolved,Mitchell Pierce,719.68,4.0,6.0
+MNT00341,PROP0056,TEN0227,HVAC,High,HVAC issue: Move million policy care.,2024-06-12,2024-06-17,Resolved,Eric Stevens,1627.71,1.0,5.0
+MNT00342,PROP0018,TEN0362,Electrical,Medium,Electrical issue: Responsibility us sound.,2025-12-31,2026-01-04,Resolved,James Harris,2309.98,3.0,4.0
+MNT00343,PROP0001,TEN0077,Landscaping,Low,Landscaping issue: Population all matter doctor cost social mind attention.,2024-06-07,2024-06-28,Resolved,Cynthia Tanner,1737.63,2.0,21.0
+MNT00344,PROP0060,TEN0117,Pest Control,Medium,Pest Control issue: Front write wonder assume large analysis leader.,2025-08-23,2025-08-31,Resolved,Joseph Jordan,594.56,4.0,8.0
+MNT00345,PROP0003,TEN0005,Structural,Low,Structural issue: Source improve difficult important much picture develop.,2024-05-16,2024-06-09,Resolved,Ryan Fields,863.44,5.0,24.0
+MNT00346,PROP0015,TEN0352,Landscaping,Emergency,Landscaping issue: Lawyer rise billion general.,2024-11-12,2024-11-13,Resolved,Jody Bruce,752.82,4.0,1.0
+MNT00347,PROP0015,TEN0017,Plumbing,Medium,Plumbing issue: Tree participant chair push customer local color.,2025-12-06,2025-12-11,Resolved,Corey Lucas,107.65,1.0,5.0
+MNT00348,PROP0017,TEN0288,Appliance,Medium,Appliance issue: Month father turn heart question me.,2024-05-25,2024-05-28,Resolved,Tricia King,1876.81,2.0,3.0
+MNT00349,PROP0026,TEN0066,Landscaping,Low,Landscaping issue: Water interesting much maybe peace.,2025-01-27,2025-02-03,Resolved,Phyllis Martinez,2368.93,3.0,7.0
+MNT00350,PROP0002,TEN0255,Landscaping,Medium,Landscaping issue: Start age man trial.,2025-07-16,2025-07-21,Resolved,Ronald Ross,162.71,3.0,5.0
+MNT00351,PROP0084,TEN0091,HVAC,Emergency,HVAC issue: Laugh open food.,2026-03-05,2026-03-06,Resolved,Jordan Cohen,111.63,5.0,1.0
+MNT00352,PROP0012,TEN0171,Appliance,Low,Appliance issue: However many military executive.,2024-09-17,2024-10-07,Resolved,Amanda Cochran,685.71,3.0,20.0
+MNT00353,PROP0072,TEN0216,Electrical,Medium,Electrical issue: Feeling environmental team some.,2025-10-03,2025-10-13,Resolved,Suzanne Patton,1904.31,2.0,10.0
+MNT00354,PROP0059,TEN0343,HVAC,Medium,HVAC issue: Me time defense response red floor top local.,2024-04-16,2024-04-26,Resolved,Steven Ruiz,999.2,3.0,10.0
+MNT00355,PROP0090,TEN0205,HVAC,High,HVAC issue: Woman any institution quickly ground alone also.,2024-07-01,2024-07-06,Resolved,Justin Martinez,1051.49,5.0,5.0
+MNT00356,PROP0057,TEN0262,Structural,High,Structural issue: Hold evening stand four beautiful nation.,2025-10-02,2025-10-06,Resolved,Bryan Harrison,1466.54,2.0,4.0
+MNT00357,PROP0047,TEN0008,Plumbing,Medium,Plumbing issue: Especially attention together popular.,2026-01-18,2026-01-28,Resolved,David Solomon,2483.88,2.0,10.0
+MNT00358,PROP0017,TEN0121,Pest Control,High,Pest Control issue: Thousand friend recognize theory beyond.,2025-04-16,2025-04-19,Resolved,Eric Garcia,1077.23,4.0,3.0
+MNT00359,PROP0071,TEN0079,Electrical,Low,Electrical issue: Sure coach science than strategy economic own American.,2024-08-02,2024-08-17,Resolved,Thomas Lopez,922.89,3.0,15.0
+MNT00360,PROP0033,TEN0295,HVAC,Low,HVAC issue: Specific argue teach popular people.,2025-08-20,2025-09-06,Resolved,Bethany Parks,1927.72,1.0,17.0
+MNT00361,PROP0086,TEN0364,Security,High,Security issue: Which operation tend power real walk name no.,2024-06-05,,Open,Jasmine Lynch,,,
+MNT00362,PROP0001,TEN0343,Landscaping,Low,Landscaping issue: Hospital guy task reason challenge family recognize bag.,2025-08-13,2025-08-25,Resolved,Scott Schmidt,2166.8,2.0,12.0
+MNT00363,PROP0093,TEN0034,Structural,Medium,Structural issue: Ask wear security someone move either office why.,2024-08-26,2024-09-05,Resolved,Katie Alexander,2172.12,1.0,10.0
+MNT00364,PROP0045,TEN0051,Electrical,Emergency,Electrical issue: Sound lose federal pass newspaper fact range.,2025-03-04,2025-03-05,Resolved,Jasmine Mccarthy,1658.45,3.0,1.0
+MNT00365,PROP0011,TEN0372,HVAC,Low,HVAC issue: Various yard radio range check beyond body.,2025-09-06,2025-09-11,Resolved,Audrey Bauer,1872.74,5.0,5.0
+MNT00366,PROP0055,TEN0003,Appliance,Medium,Appliance issue: Personal image operation call and image even.,2024-06-05,2024-06-15,Resolved,Randall Ewing,546.46,1.0,10.0
+MNT00367,PROP0090,TEN0104,Electrical,Medium,Electrical issue: Agent system main.,2024-07-30,2024-08-01,Resolved,Michael Howard,129.46,1.0,2.0
+MNT00368,PROP0027,TEN0153,Security,High,Security issue: Number help coach research world high because.,2025-10-04,,In Progress,Michael Gonzales,,,
+MNT00369,PROP0098,TEN0334,Landscaping,Low,Landscaping issue: Style your idea anyone.,2025-05-13,2025-06-10,Resolved,Edward Jones,2352.77,5.0,28.0
+MNT00370,PROP0097,TEN0027,Structural,Low,Structural issue: Nature interest adult.,2024-09-04,2024-09-29,Resolved,Eric Anthony,943.41,1.0,25.0
+MNT00371,PROP0081,TEN0062,Electrical,Low,Electrical issue: Direction eye nothing attention likely drug.,2024-12-16,2025-01-04,Resolved,Lori Curry,1780.11,1.0,19.0
+MNT00372,PROP0061,TEN0086,Security,Medium,Security issue: Hotel shoulder young wear leader course.,2024-07-30,2024-08-08,Resolved,Veronica Stevens,187.78,2.0,9.0
+MNT00373,PROP0060,TEN0058,Landscaping,Low,Landscaping issue: Campaign add week card show Mrs.,2024-11-03,2024-11-08,Resolved,Debra Curtis,1201.46,2.0,5.0
+MNT00374,PROP0017,TEN0104,Landscaping,Low,Landscaping issue: Hotel none position less item most treat.,2024-08-05,2024-08-25,Resolved,Anthony Maxwell,2101.88,1.0,20.0
+MNT00375,PROP0058,TEN0215,Electrical,High,Electrical issue: Health strategy fund although pretty hear draw.,2024-12-07,,In Progress,Daniel Aguilar,,,
+MNT00376,PROP0046,TEN0239,Plumbing,Low,Plumbing issue: Purpose way fine participant level fall because.,2025-01-16,2025-02-10,Resolved,Jeffrey Rios,380.64,4.0,25.0
+MNT00377,PROP0024,TEN0084,Electrical,Medium,Electrical issue: Everybody pretty type tend.,2025-12-28,2026-01-05,Resolved,Stanley Mason,1401.14,4.0,8.0
+MNT00378,PROP0034,TEN0204,Security,Low,Security issue: Half certainly child enter know shoulder.,2025-01-21,2025-02-20,Resolved,Jennifer Holmes,1740.73,2.0,30.0
+MNT00379,PROP0074,TEN0187,HVAC,Low,HVAC issue: Lay court matter child.,2025-02-24,2025-03-02,Resolved,Daniel Jimenez,1001.57,1.0,6.0
+MNT00380,PROP0062,TEN0005,Appliance,Low,Appliance issue: Mouth employee word thousand medical audience whom instead.,2024-08-09,2024-08-15,Resolved,Joyce Thomas,569.11,1.0,6.0
+MNT00381,PROP0080,TEN0276,Appliance,Medium,Appliance issue: Hard development toward financial thousand.,2025-11-09,,Open,Toni Peck,,,
+MNT00382,PROP0002,TEN0155,Electrical,High,Electrical issue: Everyone hotel understand add read meet deep.,2024-04-08,2024-04-09,Resolved,Nicole Porter,164.78,1.0,1.0
+MNT00383,PROP0048,TEN0037,Landscaping,Medium,Landscaping issue: Place realize brother produce sea continue church man.,2025-08-17,2025-08-27,Resolved,Sherri Ryan,1796.64,2.0,10.0
+MNT00384,PROP0030,TEN0342,Pest Control,Low,Pest Control issue: Education data test career firm generation water.,2025-01-29,2025-02-20,Resolved,Sara Benson,2059.45,3.0,22.0
+MNT00385,PROP0064,TEN0216,Structural,High,Structural issue: Top rest idea try.,2024-05-21,2024-05-26,Resolved,Melissa Jones,2146.03,1.0,5.0
+MNT00386,PROP0041,TEN0242,Appliance,Medium,Appliance issue: Sometimes method allow.,2024-10-02,2024-10-05,Resolved,Ann Hernandez,2269.29,4.0,3.0
+MNT00387,PROP0043,TEN0051,HVAC,Low,HVAC issue: Exist camera Mr.,2026-01-10,2026-01-26,Resolved,Derrick Murray,686.01,4.0,16.0
+MNT00388,PROP0082,TEN0024,Security,Low,Security issue: Price say high Republican fish whatever.,2024-08-07,2024-09-04,Resolved,Brandon Roberts,767.16,3.0,28.0
+MNT00389,PROP0099,TEN0144,Landscaping,High,Landscaping issue: First century industry middle get imagine participant.,2025-11-21,,Open,Jennifer Molina,,,
+MNT00390,PROP0004,TEN0236,Appliance,Low,Appliance issue: Scene affect low catch miss.,2025-07-20,2025-08-10,Resolved,Andrea Black,695.76,4.0,21.0
+MNT00391,PROP0069,TEN0329,Appliance,Medium,Appliance issue: That because soon black about.,2025-10-27,2025-10-29,Resolved,Brian Navarro,801.89,2.0,2.0
+MNT00392,PROP0068,TEN0009,HVAC,High,HVAC issue: Wide civil build event.,2025-11-26,2025-11-29,Resolved,Mr. Mark Johnson,1778.91,2.0,3.0
+MNT00393,PROP0050,TEN0026,HVAC,Medium,HVAC issue: Concern something space decade.,2025-10-25,2025-10-31,Resolved,William Gates,2454.1,4.0,6.0
+MNT00394,PROP0024,TEN0285,Structural,Emergency,Structural issue: True choice campaign them.,2025-01-01,,In Progress,Michael Rogers,,,
+MNT00395,PROP0084,TEN0194,Appliance,Low,Appliance issue: Cultural mind significant strategy throughout.,2025-07-31,2025-08-07,Resolved,Anthony Gonzales,2418.89,4.0,7.0
+MNT00396,PROP0061,TEN0214,HVAC,Medium,HVAC issue: Third camera born do city.,2024-04-25,2024-04-30,Resolved,Brian Mclaughlin,2097.94,5.0,5.0
+MNT00397,PROP0007,TEN0209,Plumbing,High,Plumbing issue: Season history court American.,2025-10-25,2025-10-29,Resolved,Michael Stone,482.09,3.0,4.0
+MNT00398,PROP0100,TEN0190,Appliance,Low,Appliance issue: Final entire me near.,2025-10-28,2025-11-13,Resolved,James Mccall,1211.95,5.0,16.0
+MNT00399,PROP0054,TEN0381,Electrical,Emergency,Electrical issue: Close for I tough country fund player.,2025-01-27,2025-01-28,Resolved,James Alexander,819.96,3.0,1.0
+MNT00400,PROP0053,TEN0231,Plumbing,High,Plumbing issue: Every western themselves whose.,2024-07-05,2024-07-09,Resolved,Mr. Jose Williams,673.99,4.0,4.0
+MNT00401,PROP0010,TEN0301,Plumbing,Low,Plumbing issue: Dream democratic total wind catch.,2025-11-30,2025-12-30,Resolved,Charles Woods,1218.3,4.0,30.0
+MNT00402,PROP0096,TEN0067,Security,High,Security issue: Move smile nearly million sense still.,2025-01-24,2025-01-26,Resolved,Francis Conner,410.7,1.0,2.0
+MNT00403,PROP0014,TEN0390,Electrical,High,Electrical issue: And state sister foot left should consider.,2025-08-05,,In Progress,Timothy Warren,,,
+MNT00404,PROP0014,TEN0217,HVAC,Low,HVAC issue: Idea knowledge four weight court interesting.,2024-10-04,2024-10-18,Resolved,Jesse Reyes,757.93,5.0,14.0
+MNT00405,PROP0052,TEN0296,Appliance,Low,Appliance issue: Individual over ready watch that reflect blood.,2025-01-03,,Open,Michael Warren,,,
+MNT00406,PROP0024,TEN0016,HVAC,High,HVAC issue: Southern budget account rock.,2024-12-15,2024-12-16,Resolved,Peter Rasmussen,2231.68,2.0,1.0
+MNT00407,PROP0087,TEN0204,Structural,Medium,Structural issue: Whether like focus despite citizen.,2025-12-24,,Open,Jamie Butler,,,
+MNT00408,PROP0058,TEN0238,Plumbing,Emergency,Plumbing issue: Return card against itself move.,2026-01-16,2026-01-16,Resolved,Ryan Rodriguez,1957.4,3.0,0.0
+MNT00409,PROP0088,TEN0006,Plumbing,Low,Plumbing issue: Station music board material.,2024-09-22,2024-10-03,Resolved,Dan Santos,499.67,3.0,11.0
+MNT00410,PROP0049,TEN0296,Appliance,High,Appliance issue: Cover style speak spring major boy.,2025-08-23,2025-08-25,Resolved,Edward Lin,1136.82,2.0,2.0
+MNT00411,PROP0072,TEN0003,Appliance,Emergency,Appliance issue: Indeed easy option west successful.,2025-10-18,,In Progress,Sean Turner,,,
+MNT00412,PROP0079,TEN0374,Pest Control,Low,Pest Control issue: Five around hour middle seek worry.,2024-09-19,,Open,Kyle White,,,
+MNT00413,PROP0098,TEN0253,HVAC,Medium,HVAC issue: Boy argue sign body another mind each.,2025-09-29,2025-10-03,Resolved,Tom Hodges,594.41,1.0,4.0
+MNT00414,PROP0039,TEN0396,Landscaping,Low,Landscaping issue: Authority though choice according forget want.,2025-05-24,2025-06-11,Resolved,Nancy Flores,2068.95,4.0,18.0
+MNT00415,PROP0022,TEN0284,Structural,Medium,Structural issue: Item least history enough well citizen.,2026-03-13,2026-03-22,Resolved,Vincent Turner,1486.64,1.0,9.0
+MNT00416,PROP0058,TEN0371,Plumbing,Medium,Plumbing issue: Rest current any attorney suddenly.,2024-09-21,2024-09-29,Resolved,Steven Erickson,1263.15,3.0,8.0
+MNT00417,PROP0097,TEN0212,Plumbing,Low,Plumbing issue: Maintain around friend serious provide identify left.,2025-10-02,2025-10-24,Resolved,Eric House,2118.88,5.0,22.0
+MNT00418,PROP0006,TEN0085,HVAC,High,HVAC issue: Door agree skill common section.,2025-06-25,,In Progress,Richard Willis,,,
+MNT00419,PROP0070,TEN0294,Plumbing,Medium,Plumbing issue: Nature cause and population apply up.,2025-03-14,2025-03-18,Resolved,Erin Richardson,474.62,2.0,4.0
+MNT00420,PROP0032,TEN0184,Electrical,Low,Electrical issue: Think mention hot bar police east outside.,2025-04-01,2025-05-01,Resolved,Heather Jenkins,195.48,5.0,30.0
+MNT00421,PROP0094,TEN0116,Pest Control,Low,Pest Control issue: Cover whatever blue shoulder.,2025-12-27,2026-01-26,Resolved,Heidi Galloway,2042.24,5.0,30.0
+MNT00422,PROP0037,TEN0356,Appliance,Medium,Appliance issue: Address agency seek ground society beautiful.,2024-12-12,2024-12-17,Resolved,Ronald Wright,653.41,2.0,5.0
+MNT00423,PROP0076,TEN0219,HVAC,Low,HVAC issue: Occur ago process better meeting ball enter.,2024-07-21,2024-08-12,Resolved,John Williams,1369.0,2.0,22.0
+MNT00424,PROP0016,TEN0065,Structural,High,Structural issue: Work method should.,2024-11-07,2024-11-12,Resolved,Sara Castaneda,866.68,5.0,5.0
+MNT00425,PROP0051,TEN0161,HVAC,Emergency,HVAC issue: Onto public care this important.,2025-07-10,2025-07-11,Resolved,Sean Diaz,234.37,4.0,1.0
+MNT00426,PROP0040,TEN0302,Pest Control,Low,Pest Control issue: Let teacher take hot cut help investment.,2024-03-27,2024-04-03,Resolved,Logan Estes,2174.06,1.0,7.0
+MNT00427,PROP0073,TEN0105,Security,Medium,Security issue: Me inside why home sound million use.,2025-08-16,2025-08-19,Resolved,Kathleen Hall,1143.53,2.0,3.0
+MNT00428,PROP0013,TEN0247,Pest Control,Low,Pest Control issue: Task treat second push group law talk.,2024-08-18,2024-09-04,Resolved,Jose Clark,420.3,5.0,17.0
+MNT00429,PROP0081,TEN0205,Structural,Medium,Structural issue: Long west say mind medical I near.,2024-09-26,,Open,Juan Copeland,,,
+MNT00430,PROP0004,TEN0003,HVAC,Medium,HVAC issue: Sound unit drive someone sign customer boy.,2024-08-28,2024-09-03,Resolved,Carrie Day,518.08,1.0,6.0
+MNT00431,PROP0009,TEN0182,Appliance,High,Appliance issue: Do can practice service.,2024-03-29,2024-04-01,Resolved,Wendy Mullen,1813.5,2.0,3.0
+MNT00432,PROP0013,TEN0298,Electrical,Low,Electrical issue: Outside collection heavy beautiful.,2025-12-16,2026-01-11,Resolved,Gary Farrell,1498.64,2.0,26.0
+MNT00433,PROP0034,TEN0239,HVAC,Medium,HVAC issue: Wide special open yet notice talk.,2024-04-02,2024-04-08,Resolved,Adrian Powell,1279.21,2.0,6.0
+MNT00434,PROP0091,TEN0131,Pest Control,High,Pest Control issue: Western how little arm.,2024-09-03,2024-09-08,Resolved,Stephanie Wood,2424.36,3.0,5.0
+MNT00435,PROP0099,TEN0278,Security,Medium,Security issue: Hotel entire increase television fine.,2025-01-03,2025-01-12,Resolved,David Davis,561.98,2.0,9.0
+MNT00436,PROP0097,TEN0088,Landscaping,Medium,Landscaping issue: Interest situation raise type.,2024-09-11,2024-09-13,Resolved,Mark Rivers,1380.11,3.0,2.0
+MNT00437,PROP0056,TEN0141,Plumbing,High,Plumbing issue: Score reveal base especially nothing job.,2024-11-20,2024-11-23,Resolved,Kelly Moore,520.66,5.0,3.0
+MNT00438,PROP0022,TEN0397,Pest Control,Medium,Pest Control issue: Point skill action represent someone send medical.,2024-06-27,2024-07-06,Resolved,Michelle Scott,94.07,5.0,9.0
+MNT00439,PROP0035,TEN0204,Security,Low,Security issue: Once create public together decade land.,2024-11-24,2024-12-17,Resolved,Crystal Moore,2162.55,3.0,23.0
+MNT00440,PROP0095,TEN0192,Electrical,High,Electrical issue: Film economy total policy claim reach benefit this.,2024-08-11,2024-08-16,Resolved,Bradley Johnson,2180.46,1.0,5.0
+MNT00441,PROP0097,TEN0055,HVAC,Medium,HVAC issue: Song about adult white station.,2024-09-23,2024-10-01,Resolved,Jimmy Cole,1403.55,2.0,8.0
+MNT00442,PROP0076,TEN0390,Structural,High,Structural issue: Material usually billion medical include side.,2024-04-27,2024-04-28,Resolved,Daniel Smith,651.93,3.0,1.0
+MNT00443,PROP0012,TEN0148,HVAC,Medium,HVAC issue: Tend arrive the other design none sister.,2024-11-06,2024-11-08,Resolved,Denise Dixon,1016.33,4.0,2.0
+MNT00444,PROP0006,TEN0069,Landscaping,Medium,Landscaping issue: Be out sea sister per one.,2025-12-16,2025-12-23,Resolved,Robin Barker,525.8,1.0,7.0
+MNT00445,PROP0062,TEN0146,Plumbing,Low,Plumbing issue: Become smile sister teacher.,2025-02-22,2025-03-06,Resolved,Christopher Munoz,1458.56,2.0,12.0
+MNT00446,PROP0048,TEN0391,Appliance,Medium,Appliance issue: Technology mind pull talk.,2025-03-09,2025-03-13,Resolved,Samuel Ellis,279.43,5.0,4.0
+MNT00447,PROP0029,TEN0196,Plumbing,Medium,Plumbing issue: After scene face community prove.,2025-05-01,2025-05-03,Resolved,Juan Knox,1664.74,3.0,2.0
+MNT00448,PROP0052,TEN0144,Landscaping,Low,Landscaping issue: Enjoy clearly western bit resource student.,2025-10-15,2025-11-10,Resolved,Anna Wall,2182.26,4.0,26.0
+MNT00449,PROP0037,TEN0112,Pest Control,Low,Pest Control issue: Other dark top new.,2025-09-03,2025-09-26,Resolved,Sherry Rivas,714.87,1.0,23.0
+MNT00450,PROP0057,TEN0218,HVAC,High,HVAC issue: Than current result every.,2026-03-04,2026-03-06,Resolved,Craig Figueroa,330.93,5.0,2.0
+MNT00451,PROP0034,TEN0145,Electrical,Emergency,Electrical issue: Bed present ahead center.,2024-10-22,,In Progress,Robert James,,,
+MNT00452,PROP0036,TEN0148,Electrical,Emergency,Electrical issue: Personal general theory time perform prove.,2025-11-25,2025-11-26,Resolved,Edward Gomez,2242.16,5.0,1.0
+MNT00453,PROP0047,TEN0245,Landscaping,High,Landscaping issue: Exist act foot step.,2024-10-23,2024-10-27,Resolved,Noah Allen,664.97,3.0,4.0
+MNT00454,PROP0024,TEN0320,Plumbing,High,Plumbing issue: List night attorney.,2024-06-18,2024-06-22,Resolved,Cynthia Lyons,295.21,5.0,4.0
+MNT00455,PROP0057,TEN0011,Electrical,High,Electrical issue: Tax international analysis his day.,2024-07-28,2024-07-30,Resolved,Dustin Jones,150.88,2.0,2.0
+MNT00456,PROP0037,TEN0287,Appliance,Medium,Appliance issue: State theory election worker describe law option.,2025-02-05,2025-02-11,Resolved,David White,708.24,4.0,6.0
+MNT00457,PROP0100,TEN0172,Appliance,Medium,Appliance issue: Yard style yes page need.,2024-07-15,2024-07-21,Resolved,Thomas Oliver,76.41,3.0,6.0
+MNT00458,PROP0038,TEN0396,Pest Control,High,Pest Control issue: Necessary skin painting gas.,2024-10-29,2024-11-02,Resolved,Cody Green,738.14,4.0,4.0
+MNT00459,PROP0023,TEN0102,Landscaping,High,Landscaping issue: Very maintain option throughout.,2025-03-20,2025-03-21,Resolved,Jasmine Larson,606.48,3.0,1.0
+MNT00460,PROP0081,TEN0161,Security,High,Security issue: Write summer certain candidate police forget candidate.,2024-12-01,2024-12-02,Resolved,Corey Mason,624.42,5.0,1.0
+MNT00461,PROP0078,TEN0009,Plumbing,Medium,Plumbing issue: Nothing area approach blood animal particular ever young.,2024-05-26,2024-06-04,Resolved,Jermaine Young,1096.99,3.0,9.0
+MNT00462,PROP0063,TEN0332,Landscaping,High,Landscaping issue: Open strong adult at practice him people pretty.,2024-09-04,2024-09-08,Resolved,Zachary Hall,1330.25,3.0,4.0
+MNT00463,PROP0028,TEN0235,Plumbing,Medium,Plumbing issue: Across want during experience floor strong light.,2025-12-31,2026-01-03,Resolved,Tyler Moreno,2409.4,3.0,3.0
+MNT00464,PROP0054,TEN0132,Landscaping,High,Landscaping issue: Garden involve visit alone.,2024-04-11,2024-04-13,Resolved,Jennifer Miller,2032.38,1.0,2.0
+MNT00465,PROP0048,TEN0338,Structural,High,Structural issue: Bill determine everything official individual structure.,2024-11-11,2024-11-14,Resolved,Shannon Moon,1449.57,1.0,3.0
+MNT00466,PROP0020,TEN0232,Security,Emergency,Security issue: Down player production represent watch central five.,2025-11-10,2025-11-12,Resolved,Dr. Briana Moyer,150.47,4.0,2.0
+MNT00467,PROP0084,TEN0288,Landscaping,Low,Landscaping issue: Region write now return.,2024-10-24,,Open,John Escobar,,,
+MNT00468,PROP0030,TEN0362,Appliance,Medium,Appliance issue: Our place note kitchen instead continue maybe.,2025-09-09,,In Progress,Gregory Coleman,,,
+MNT00469,PROP0083,TEN0226,Appliance,Low,Appliance issue: Your spring ago know yourself staff.,2025-10-22,2025-11-08,Resolved,Kristin Hardy,498.44,2.0,17.0
+MNT00470,PROP0054,TEN0211,Security,Emergency,Security issue: Church yeah movie be evidence.,2025-06-15,,In Progress,Carolyn Rasmussen,,,
+MNT00471,PROP0066,TEN0332,Landscaping,Medium,Landscaping issue: Smile any several.,2025-10-13,2025-10-20,Resolved,Brian Washington,1891.0,5.0,7.0
+MNT00472,PROP0054,TEN0105,Structural,Medium,Structural issue: Society beyond soldier next.,2024-08-26,2024-09-05,Resolved,Barbara Meyer,2469.16,1.0,10.0
+MNT00473,PROP0095,TEN0162,Pest Control,High,Pest Control issue: As sort sometimes race event.,2024-08-31,,Open,Alexandra Santana,,,
+MNT00474,PROP0089,TEN0234,Plumbing,Low,Plumbing issue: Mother clear eye other site wrong wonder.,2025-08-31,2025-09-22,Resolved,Roberto Gomez,1722.85,4.0,22.0
+MNT00475,PROP0004,TEN0209,Landscaping,Low,Landscaping issue: Team property tough of across appear really.,2026-02-19,2026-02-25,Resolved,Jeffery Simmons,2407.29,1.0,6.0
+MNT00476,PROP0061,TEN0099,HVAC,High,HVAC issue: My lay Mr why if play soon.,2025-01-23,2025-01-28,Resolved,Harold Smith,1251.82,5.0,5.0
+MNT00477,PROP0020,TEN0215,Pest Control,Emergency,Pest Control issue: Particular whole life modern use science.,2026-03-02,,Open,Eric Garcia,,,
+MNT00478,PROP0069,TEN0217,Structural,Medium,Structural issue: Through artist team.,2024-06-26,2024-07-04,Resolved,Jeremy Mooney,555.3,5.0,8.0
+MNT00479,PROP0069,TEN0352,Appliance,Emergency,Appliance issue: Left level scientist simple understand do.,2024-09-04,2024-09-05,Resolved,Nicholas Chandler,1617.35,1.0,1.0
+MNT00480,PROP0015,TEN0145,Pest Control,High,Pest Control issue: Sure same structure section two.,2025-07-27,2025-07-31,Resolved,Andrew Schultz,1517.1,1.0,4.0
+MNT00481,PROP0079,TEN0175,Security,Low,Security issue: Measure truth past decade matter determine data.,2024-10-17,2024-11-02,Resolved,Ricky Valenzuela,2498.38,2.0,16.0
+MNT00482,PROP0072,TEN0263,Structural,Medium,Structural issue: Card car receive certainly drug.,2024-09-02,2024-09-04,Resolved,Kevin Gonzales,1863.93,4.0,2.0
+MNT00483,PROP0093,TEN0276,Electrical,Medium,Electrical issue: Painting court fine fight call read stop record.,2026-01-16,2026-01-18,Resolved,Justin Jones,1620.19,2.0,2.0
+MNT00484,PROP0087,TEN0059,Pest Control,High,Pest Control issue: Together study cover including bed loss story politics.,2025-06-11,2025-06-12,Resolved,Shelby Mckee,668.86,5.0,1.0
+MNT00485,PROP0093,TEN0337,HVAC,Emergency,HVAC issue: Standard wide figure despite pass half.,2025-04-16,,In Progress,Edward Gonzales,,,
+MNT00486,PROP0100,TEN0024,Electrical,Medium,Electrical issue: Long piece charge here.,2024-06-29,2024-07-03,Resolved,Jacob Cobb,1143.35,1.0,4.0
+MNT00487,PROP0027,TEN0016,Plumbing,Medium,Plumbing issue: Weight stand apply exactly start receive.,2025-11-09,2025-11-18,Resolved,Brandy Evans,455.73,4.0,9.0
+MNT00488,PROP0071,TEN0090,Structural,High,Structural issue: Affect think continue side produce adult lose.,2024-06-23,2024-06-24,Resolved,Gabriel Sanchez,1171.23,5.0,1.0
+MNT00489,PROP0065,TEN0338,Pest Control,Emergency,Pest Control issue: Above everybody piece camera.,2024-11-10,,Open,Shawn Williams,,,
+MNT00490,PROP0055,TEN0304,Electrical,High,Electrical issue: Wall his fight of send son future order.,2026-02-13,2026-02-15,Resolved,Evelyn Mendez,374.46,5.0,2.0
+MNT00491,PROP0005,TEN0272,HVAC,High,HVAC issue: Office final hard.,2025-07-01,2025-07-05,Resolved,Tiffany Martin,2020.94,4.0,4.0
+MNT00492,PROP0025,TEN0345,Structural,Low,Structural issue: Player personal evening many position news.,2025-11-15,2025-11-26,Resolved,Brian Fisher,500.51,3.0,11.0
+MNT00493,PROP0043,TEN0268,Security,High,Security issue: Firm economic consider today father among.,2026-01-10,2026-01-11,Resolved,Lori Oconnell,2035.74,2.0,1.0
+MNT00494,PROP0039,TEN0084,Pest Control,Low,Pest Control issue: Ok operation as else administration.,2025-07-04,2025-07-28,Resolved,Angela Knight,432.71,2.0,24.0
+MNT00495,PROP0059,TEN0187,Appliance,Low,Appliance issue: Cultural perhaps west power.,2025-11-22,2025-12-14,Resolved,Joseph Franklin,2050.09,1.0,22.0
+MNT00496,PROP0032,TEN0313,Landscaping,Medium,Landscaping issue: Discussion million popular.,2024-03-31,2024-04-02,Resolved,Denise Moreno,829.7,3.0,2.0
+MNT00497,PROP0006,TEN0181,Pest Control,Low,Pest Control issue: Month then unit indeed expect left.,2024-09-03,2024-10-02,Resolved,Raymond Chapman,1764.79,4.0,29.0
+MNT00498,PROP0048,TEN0399,Structural,Medium,Structural issue: White list leg throw old.,2025-08-24,2025-09-01,Resolved,Edward Wheeler,341.2,5.0,8.0
+MNT00499,PROP0058,TEN0256,Appliance,Medium,Appliance issue: Action want often range.,2025-05-19,2025-05-27,Resolved,Anthony Cowan,2403.79,2.0,8.0
+MNT00500,PROP0055,TEN0020,Landscaping,Medium,Landscaping issue: Ten present product partner imagine.,2025-01-19,2025-01-29,Resolved,Karina Deleon,366.9,5.0,10.0
+MNT00501,PROP0040,TEN0291,Security,Emergency,Security issue: See president third each state.,2025-06-22,,In Progress,Amy Jimenez,,,
+MNT00502,PROP0024,TEN0310,Landscaping,Low,Landscaping issue: Experience quickly population hospital shoulder for artist.,2024-10-28,2024-11-15,Resolved,Eric Wells,228.05,4.0,18.0
+MNT00503,PROP0073,TEN0299,Landscaping,Low,Landscaping issue: Service lose discuss executive involve public Republican.,2024-09-19,2024-10-05,Resolved,Cory Berg,2372.56,2.0,16.0
+MNT00504,PROP0076,TEN0378,Appliance,Low,Appliance issue: Benefit describe mouth foot way.,2024-11-23,2024-12-22,Resolved,Sandra Tucker,1186.78,4.0,29.0
+MNT00505,PROP0058,TEN0313,HVAC,Medium,HVAC issue: Wife notice hospital finally but imagine time.,2025-10-12,,In Progress,Kimberly Horton DDS,,,
+MNT00506,PROP0068,TEN0089,Plumbing,Medium,Plumbing issue: Turn certain board election.,2024-05-21,,Open,Eric Harris,,,
+MNT00507,PROP0078,TEN0271,Appliance,Emergency,Appliance issue: Commercial wear might travel page business also.,2025-05-09,2025-05-09,Resolved,Samuel Harris,121.86,1.0,0.0
+MNT00508,PROP0038,TEN0153,Plumbing,Medium,Plumbing issue: Recognize for subject prevent.,2025-06-10,2025-06-19,Resolved,Robin Brown,1824.72,1.0,9.0
+MNT00509,PROP0040,TEN0380,Appliance,High,Appliance issue: Some toward positive.,2025-10-01,,Open,Jeremiah Stephens,,,
+MNT00510,PROP0067,TEN0295,Security,Medium,Security issue: Person push such mind however.,2026-01-14,,In Progress,John Doyle,,,
+MNT00511,PROP0083,TEN0168,Landscaping,Low,Landscaping issue: Drive life medical name maintain.,2025-12-08,2026-01-05,Resolved,Wayne Andrews,2425.57,2.0,28.0
+MNT00512,PROP0008,TEN0266,HVAC,Low,HVAC issue: Four effect skill if half.,2024-09-25,2024-10-07,Resolved,Kevin Mcdaniel,1098.86,1.0,12.0
+MNT00513,PROP0080,TEN0134,Landscaping,Low,Landscaping issue: Middle region adult in.,2025-11-30,2025-12-23,Resolved,Amanda Pennington,956.55,5.0,23.0
+MNT00514,PROP0017,TEN0003,Electrical,Medium,Electrical issue: It your office wall friend seat follow.,2024-10-22,2024-10-27,Resolved,Krystal Finley,1052.15,5.0,5.0
+MNT00515,PROP0056,TEN0293,Pest Control,Emergency,Pest Control issue: Parent organization your nearly reduce.,2024-10-26,2024-10-27,Resolved,Kelsey Davenport,2351.47,4.0,1.0
+MNT00516,PROP0033,TEN0062,HVAC,Medium,HVAC issue: Outside product yeah step today.,2025-03-27,2025-04-01,Resolved,Ronald Miller,2133.53,1.0,5.0
+MNT00517,PROP0002,TEN0027,Security,Medium,Security issue: Computer fight southern.,2025-01-25,2025-01-29,Resolved,Laura Morris,906.55,2.0,4.0
+MNT00518,PROP0054,TEN0045,HVAC,Emergency,HVAC issue: Audience outside gas ability.,2026-02-05,2026-02-07,Resolved,Kelly Galvan,1514.17,1.0,2.0
+MNT00519,PROP0076,TEN0102,Security,Low,Security issue: Affect yes room defense lawyer.,2026-01-26,2026-02-14,Resolved,Cassandra Mckenzie,2035.39,3.0,19.0
+MNT00520,PROP0036,TEN0230,Structural,Medium,Structural issue: Radio special pattern week old resource hour.,2025-04-11,,In Progress,Peggy Parker,,,
+MNT00521,PROP0017,TEN0397,Appliance,Medium,Appliance issue: Research need role worker.,2024-08-09,2024-08-11,Resolved,Sarah Rosales,1954.61,5.0,2.0
+MNT00522,PROP0010,TEN0242,Plumbing,Emergency,Plumbing issue: Book environment those suffer its toward sing.,2024-10-26,2024-10-26,Resolved,Amy Berger,635.29,2.0,0.0
+MNT00523,PROP0069,TEN0304,Pest Control,Low,Pest Control issue: Attention leader size hair threat.,2025-02-12,,Open,Sandra Potter,,,
+MNT00524,PROP0072,TEN0182,Plumbing,Medium,Plumbing issue: Pressure beat bad hand third statement rest rise.,2024-11-05,2024-11-08,Resolved,Paula Walker,1157.13,3.0,3.0
+MNT00525,PROP0092,TEN0318,Landscaping,Medium,Landscaping issue: Enough administration my sense skin together.,2025-04-01,2025-04-04,Resolved,Matthew Thomas,2062.08,1.0,3.0
+MNT00526,PROP0007,TEN0146,Plumbing,Medium,Plumbing issue: Want outside guess interview since.,2024-05-02,2024-05-04,Resolved,Anthony Hayden,337.21,3.0,2.0
+MNT00527,PROP0003,TEN0390,Appliance,Medium,Appliance issue: Between technology growth allow.,2025-06-28,,Open,Melanie Baker,,,
+MNT00528,PROP0088,TEN0108,Landscaping,Medium,Landscaping issue: War raise view hotel line.,2026-02-17,2026-02-19,Resolved,Amy Lloyd,2060.88,5.0,2.0
+MNT00529,PROP0052,TEN0351,Structural,Medium,Structural issue: These simply professional peace.,2025-05-24,2025-05-26,Resolved,Sara Barker,421.3,3.0,2.0
+MNT00530,PROP0021,TEN0312,Pest Control,Low,Pest Control issue: Must community type really explain small side activity.,2024-04-01,2024-04-18,Resolved,Michelle Hensley,2174.03,2.0,17.0
+MNT00531,PROP0044,TEN0370,Landscaping,Low,Landscaping issue: Bed occur agree range discover suddenly.,2025-12-28,2026-01-03,Resolved,Joan Palmer,2132.51,5.0,6.0
+MNT00532,PROP0065,TEN0028,Landscaping,Medium,Landscaping issue: Take throw keep various.,2025-11-09,2025-11-19,Resolved,Matthew Schwartz,150.51,1.0,10.0
+MNT00533,PROP0077,TEN0359,Electrical,Medium,Electrical issue: Guess federal part painting hotel recent.,2024-04-04,,Open,Benjamin White,,,
+MNT00534,PROP0050,TEN0194,Electrical,Low,Electrical issue: Spring area drug hot professor would.,2024-09-26,2024-10-18,Resolved,Kelly Savage,890.13,4.0,22.0
+MNT00535,PROP0031,TEN0096,Electrical,Low,Electrical issue: Run land catch thus fish.,2025-09-07,2025-10-02,Resolved,Randall Jones,2006.86,2.0,25.0
+MNT00536,PROP0019,TEN0010,Pest Control,Low,Pest Control issue: Box Republican fill see language six nothing.,2025-08-30,2025-09-19,Resolved,Sara Bailey,940.23,3.0,20.0
+MNT00537,PROP0038,TEN0246,Plumbing,High,Plumbing issue: Meeting his community thought open small letter.,2025-06-23,2025-06-25,Resolved,Julia Velasquez,205.63,4.0,2.0
+MNT00538,PROP0096,TEN0038,Pest Control,High,Pest Control issue: Always security past economy.,2024-11-18,2024-11-22,Resolved,Derek Haas,2494.62,2.0,4.0
+MNT00539,PROP0053,TEN0093,Appliance,Medium,Appliance issue: Music organization note at.,2025-01-13,2025-01-21,Resolved,Anna Howell,83.34,4.0,8.0
+MNT00540,PROP0010,TEN0379,Structural,Low,Structural issue: Woman relate the everything its.,2025-12-10,,In Progress,Colleen Noble,,,
+MNT00541,PROP0067,TEN0206,Plumbing,Medium,Plumbing issue: Leave improve four investment question.,2025-08-30,2025-09-07,Resolved,April Allen,634.83,1.0,8.0
+MNT00542,PROP0048,TEN0023,HVAC,High,HVAC issue: Hit forward strategy loss age maybe enter possible.,2026-03-07,2026-03-11,Resolved,Kelly Williams,1578.42,5.0,4.0
+MNT00543,PROP0016,TEN0006,Appliance,Medium,Appliance issue: Force since kid occur.,2026-01-13,2026-01-16,Resolved,Sandra Kramer,631.28,1.0,3.0
+MNT00544,PROP0019,TEN0187,HVAC,Low,HVAC issue: Budget son do.,2024-11-12,2024-11-25,Resolved,Walter Burke,2359.76,3.0,13.0
+MNT00545,PROP0073,TEN0240,Pest Control,Low,Pest Control issue: Mission significant who success.,2025-08-25,,In Progress,Elizabeth Petty,,,
+MNT00546,PROP0006,TEN0069,Security,Medium,Security issue: Do image avoid wide.,2024-10-06,2024-10-12,Resolved,David Edwards,2454.63,5.0,6.0
+MNT00547,PROP0018,TEN0023,Pest Control,Low,Pest Control issue: Political maintain American activity son nature.,2024-06-23,2024-07-15,Resolved,Corey Navarro,271.88,5.0,22.0
+MNT00548,PROP0003,TEN0323,Electrical,High,Electrical issue: Itself hit employee executive of loss work.,2025-05-17,2025-05-20,Resolved,Timothy Fowler,567.84,3.0,3.0
+MNT00549,PROP0098,TEN0170,Landscaping,Emergency,Landscaping issue: Sister find wish than.,2024-12-28,2024-12-30,Resolved,Mary Hess,352.2,5.0,2.0
+MNT00550,PROP0064,TEN0027,Pest Control,Medium,Pest Control issue: Wide brother table.,2026-03-24,,In Progress,Mr. Greg Becker MD,,,
+MNT00551,PROP0018,TEN0159,Landscaping,Low,Landscaping issue: Student group lawyer one cause coach model staff.,2025-05-27,2025-06-01,Resolved,Kimberly Bishop,1082.92,4.0,5.0
+MNT00552,PROP0003,TEN0068,Appliance,Medium,Appliance issue: Education long score benefit.,2026-02-03,,In Progress,Mark Clark,,,
+MNT00553,PROP0026,TEN0349,Plumbing,Low,Plumbing issue: Lead size subject effect.,2024-03-26,2024-04-07,Resolved,Kathy Cooper,824.28,1.0,12.0
+MNT00554,PROP0045,TEN0270,Security,Medium,Security issue: Ground early course total wide none.,2026-02-06,2026-02-10,Resolved,Larry Williams,562.51,5.0,4.0
+MNT00555,PROP0042,TEN0158,Security,Medium,Security issue: Difference good edge staff I close.,2025-06-09,2025-06-17,Resolved,Monica Watson,573.8,3.0,8.0
+MNT00556,PROP0089,TEN0240,Plumbing,Medium,Plumbing issue: Last choice glass idea.,2026-02-26,,In Progress,Brooke Murray,,,
+MNT00557,PROP0056,TEN0381,Structural,High,Structural issue: Through son law stock country.,2025-02-05,2025-02-09,Resolved,Robin Peterson,351.49,2.0,4.0
+MNT00558,PROP0025,TEN0166,Security,Low,Security issue: Explain drug land begin.,2026-03-01,2026-03-27,Resolved,Joshua Mitchell,66.94,4.0,26.0
+MNT00559,PROP0007,TEN0396,HVAC,Emergency,HVAC issue: Nation painting dinner.,2024-12-29,,In Progress,Harold Bailey,,,
+MNT00560,PROP0032,TEN0004,Electrical,Medium,Electrical issue: Until local degree age stuff day.,2025-12-13,2025-12-15,Resolved,Molly White DDS,642.64,2.0,2.0
+MNT00561,PROP0019,TEN0354,Security,Low,Security issue: Food result old contain health stop throughout.,2024-09-14,2024-10-10,Resolved,Samantha Roberts,1041.94,3.0,26.0
+MNT00562,PROP0006,TEN0096,HVAC,Medium,HVAC issue: Man would fine rule.,2025-09-04,2025-09-08,Resolved,Garrett Webster,2155.69,2.0,4.0
+MNT00563,PROP0034,TEN0085,Security,Medium,Security issue: Source let believe young.,2026-02-25,2026-03-01,Resolved,Michael Richardson,878.46,2.0,4.0
+MNT00564,PROP0006,TEN0070,Appliance,Medium,Appliance issue: Investment special thing campaign yard safe.,2025-12-15,2025-12-18,Resolved,Charles Wagner,209.88,5.0,3.0
+MNT00565,PROP0025,TEN0117,HVAC,Medium,HVAC issue: Join sit cell set message suffer.,2025-10-07,2025-10-11,Resolved,Nicolas Johnson,222.98,5.0,4.0
+MNT00566,PROP0068,TEN0077,Plumbing,High,Plumbing issue: Top lot entire hard.,2024-11-11,2024-11-14,Resolved,Yvonne Barnes,708.39,3.0,3.0
+MNT00567,PROP0017,TEN0200,Plumbing,Emergency,Plumbing issue: Table people mean behavior before around.,2025-08-25,2025-08-27,Resolved,Tiffany Allen,1574.72,2.0,2.0
+MNT00568,PROP0071,TEN0114,Electrical,Low,Electrical issue: Dog focus above.,2024-03-24,2024-04-20,Resolved,Ann Miller,429.08,4.0,27.0
+MNT00569,PROP0081,TEN0372,HVAC,Emergency,HVAC issue: Manage determine class page successful.,2025-03-10,2025-03-11,Resolved,Dr. Donald Mcmahon,2351.12,4.0,1.0
+MNT00570,PROP0093,TEN0260,Plumbing,Emergency,Plumbing issue: Close single land language.,2025-07-10,2025-07-10,Resolved,Natasha Short,1135.23,2.0,0.0
+MNT00571,PROP0072,TEN0186,Plumbing,Low,Plumbing issue: Nice three structure real.,2025-03-28,2025-04-27,Resolved,Pamela Sanchez,1578.57,3.0,30.0
+MNT00572,PROP0018,TEN0323,Structural,Low,Structural issue: Player involve glass various woman remain.,2026-03-15,,In Progress,Emily Smith,,,
+MNT00573,PROP0035,TEN0010,Landscaping,Medium,Landscaping issue: Friend yard energy threat imagine response family.,2026-01-20,2026-01-27,Resolved,Javier James,1079.61,3.0,7.0
+MNT00574,PROP0073,TEN0002,Landscaping,High,Landscaping issue: Send movement big break.,2025-10-07,2025-10-09,Resolved,Jennifer White,2021.88,3.0,2.0
+MNT00575,PROP0082,TEN0207,Structural,Emergency,Structural issue: Hospital painting recent measure resource local.,2024-09-25,2024-09-27,Resolved,Darlene Scott,821.9,4.0,2.0
+MNT00576,PROP0083,TEN0301,Appliance,Low,Appliance issue: Among national call.,2024-12-09,2024-12-20,Resolved,Christopher Buchanan,2113.18,5.0,11.0
+MNT00577,PROP0010,TEN0132,Landscaping,Low,Landscaping issue: Relate wide these they instead affect agree.,2024-04-09,2024-05-07,Resolved,James Price,1513.18,2.0,28.0
+MNT00578,PROP0019,TEN0214,Landscaping,Low,Landscaping issue: Audience cold question able power bag.,2024-10-08,2024-10-17,Resolved,Lori Holloway,983.46,2.0,9.0
+MNT00579,PROP0013,TEN0081,Electrical,Medium,Electrical issue: Cut last eye actually meet floor weight.,2024-11-15,2024-11-22,Resolved,Chelsea Perry,881.61,3.0,7.0
+MNT00580,PROP0003,TEN0003,Electrical,Low,Electrical issue: Line hot glass area cause thing gun thousand.,2025-02-28,2025-03-19,Resolved,William Quinn,2050.72,5.0,19.0
+MNT00581,PROP0091,TEN0156,Security,Medium,Security issue: Current risk join trial high particularly.,2024-10-25,2024-10-29,Resolved,Steven Howell,1878.98,4.0,4.0
+MNT00582,PROP0009,TEN0263,HVAC,Emergency,HVAC issue: House party toward hour themselves anyone.,2024-12-14,2024-12-16,Resolved,Bobby Hodges,1639.88,1.0,2.0
+MNT00583,PROP0043,TEN0337,Structural,Low,Structural issue: Rock approach the.,2025-04-06,,Open,Pamela Scott,,,
+MNT00584,PROP0090,TEN0371,Structural,Medium,Structural issue: Little talk interest name player different let.,2026-03-04,2026-03-12,Resolved,Anthony James,1458.64,5.0,8.0
+MNT00585,PROP0035,TEN0201,Plumbing,High,Plumbing issue: Street dinner or ability rock a issue.,2025-08-09,2025-08-13,Resolved,Mr. Darryl Hughes PhD,709.88,4.0,4.0
+MNT00586,PROP0025,TEN0348,Appliance,Emergency,Appliance issue: Yourself yeah improve weight walk doctor child say.,2026-03-16,2026-03-16,Resolved,Kayla Lopez,342.36,5.0,0.0
+MNT00587,PROP0008,TEN0294,HVAC,Medium,HVAC issue: Appear entire report address cold big operation.,2025-04-20,,In Progress,Melinda Taylor,,,
+MNT00588,PROP0046,TEN0164,Security,Medium,Security issue: In education tough argue knowledge.,2025-05-25,2025-05-31,Resolved,Jennifer Thompson,1330.71,4.0,6.0
+MNT00589,PROP0042,TEN0168,Pest Control,High,Pest Control issue: Cut medical market visit decide during.,2025-12-21,2025-12-23,Resolved,Michael Baker,722.76,1.0,2.0
+MNT00590,PROP0007,TEN0198,Security,Medium,Security issue: Career certainly weight institution wear thousand.,2024-08-21,2024-08-29,Resolved,William Butler,190.85,1.0,8.0
+MNT00591,PROP0054,TEN0196,Pest Control,Low,Pest Control issue: Really both focus son.,2024-12-13,2024-12-21,Resolved,Cory Ramos,687.03,5.0,8.0
+MNT00592,PROP0076,TEN0314,Security,Emergency,Security issue: Hour performance animal billion can poor area.,2025-04-09,2025-04-09,Resolved,Darrell Torres,2284.77,4.0,0.0
+MNT00593,PROP0003,TEN0263,Appliance,High,Appliance issue: Image consider voice.,2024-12-04,,Open,Crystal Gonzalez,,,
+MNT00594,PROP0053,TEN0100,Plumbing,High,Plumbing issue: Strategy difference why industry out hospital.,2025-12-11,2025-12-13,Resolved,Brian Ross,1057.47,2.0,2.0
+MNT00595,PROP0006,TEN0356,Pest Control,High,Pest Control issue: Involve ten table medical budget realize.,2025-10-01,2025-10-03,Resolved,Lindsey Smith,1953.3,3.0,2.0
+MNT00596,PROP0096,TEN0036,Appliance,Low,Appliance issue: Your author authority despite.,2024-07-03,2024-07-26,Resolved,Aaron Gregory,2068.0,4.0,23.0
+MNT00597,PROP0077,TEN0249,Security,Low,Security issue: Prepare occur hour event myself.,2025-10-22,2025-11-04,Resolved,Andrew Thomas,563.88,4.0,13.0
+MNT00598,PROP0079,TEN0139,Plumbing,Low,Plumbing issue: Foot Mrs next base stop month.,2024-12-08,2024-12-14,Resolved,Ian Jones,975.22,4.0,6.0
+MNT00599,PROP0039,TEN0261,Plumbing,Medium,Plumbing issue: Someone staff stuff girl speak often because.,2026-01-22,2026-01-27,Resolved,Nicholas Cooke,2226.26,5.0,5.0
+MNT00600,PROP0081,TEN0390,Plumbing,Low,Plumbing issue: World effort war everyone and.,2024-08-03,2024-08-21,Resolved,Brittany Fowler,712.15,1.0,18.0

@@ -1,0 +1,101 @@
+property_id,property_name,address,city,state,zip_code,property_type,total_units,year_built,monthly_rent_base,amenities,property_manager,acquisition_date,status
+PROP0001,Hernandez Manor,9198 Timothy Port,Detroit,MI,68208,Townhouse,1,1984,1371,"Pool, Gym",Mary Herrera,2018-09-05,Active
+PROP0002,Ross Heights,4715 Hudson Inlet,Milwaukee,WI,33171,Duplex,15,1971,1183,Gym,Emily Cline,2012-01-11,Active
+PROP0003,Vargas Park,549 Lauren Mountains Apt. 680,Milwaukee,WI,05226,Duplex,8,1996,1702,"Pool, Parking, Gym",Jessica Brennan,2012-12-05,Active
+PROP0004,Fuentes Place,05265 Christopher Ridges,Ann Arbor,MI,20433,Condo,12,1979,1681,Parking,Elizabeth Atkins,2012-10-10,Active
+PROP0005,Gutierrez Place,0472 Susan Expressway,Chicago,IL,85134,Townhouse,1,2008,1883,"Pool, Gym",Raymond Jacobson,2018-09-03,Active
+PROP0006,Walter Park,430 Jacqueline Haven,Milwaukee,WI,25530,Condo,4,1988,3374,None,Anne Thompson,2019-07-16,Inactive
+PROP0007,Arroyo Heights,361 Flores Mews Suite 915,Carmel,IN,17743,Apartment,24,1972,1733,Parking,Daniel Rose V,2019-12-24,Under Renovation
+PROP0008,Estrada Commons,94234 Joseph Well Suite 950,Columbus,OH,30658,Condo,10,2010,2294,Gym,Teresa Glenn,2021-07-29,Active
+PROP0009,Thompson Park,57712 Johnson Village,Cincinnati,OH,40415,Single Family,1,2010,1500,None,Jessica Sparks,2012-08-07,Active
+PROP0010,Boyle Park,75502 Harvey Unions,Toledo,OH,83619,Condo,10,1984,2128,"Pool, Gym",Mark Jenkins,2019-02-17,Active
+PROP0011,Garcia Heights,7974 Donald Lock,Dearborn,MI,53111,Condo,10,1983,3123,Parking,James Wilcox,2024-05-20,Active
+PROP0012,Maddox Place,1669 Kevin Plain,Joliet,IL,29640,Condo,6,1978,1810,None,Larry Reid,2016-03-17,Active
+PROP0013,Allen Place,382 Pratt Ville,Kenosha,WI,01665,Duplex,14,1984,1366,None,Jacqueline Moss,2022-08-02,Active
+PROP0014,Rivera Manor,4538 Patricia Rapids,Detroit,MI,57651,Apartment,22,2020,2529,None,Sarah Russell,2016-12-26,Active
+PROP0015,Mendoza Place,11962 Amy Court Apt. 386,Rockford,IL,11783,Condo,18,2005,847,"Pool, Gym",Brett Wolfe,2019-10-10,Active
+PROP0016,Anderson Heights,25069 Robert Groves,Green Bay,WI,11785,Townhouse,1,1988,2580,Gym,Sarah Bauer,2016-06-12,Active
+PROP0017,Knapp Heights,4470 Martin Crest Suite 957,Carmel,IN,53628,Apartment,18,2010,2022,None,Victoria Green,2022-09-24,Active
+PROP0018,Flores Park,6392 Richardson Manor,Cincinnati,OH,72046,Apartment,19,1970,3253,Parking,Mike Taylor,2021-05-14,Active
+PROP0019,Palmer Manor,82131 Carrie Wells,Dearborn,MI,16367,Townhouse,1,1973,1786,None,Renee Lane,2019-03-16,Under Renovation
+PROP0020,Quinn Park,4941 Robin Haven,Lansing,MI,34674,Single Family,1,2019,1315,Gym,Adam Roberts,2021-12-24,Active
+PROP0021,Davis Park,74857 Jessica Wall Suite 692,Madison,WI,26333,Townhouse,1,2008,2533,Gym,Gerald Campbell,2019-04-09,Inactive
+PROP0022,Hill Place,1443 Crawford Isle Apt. 484,Cincinnati,OH,75079,Condo,23,1998,2919,"Pool, Parking, Gym",Misty Paul,2023-11-05,Active
+PROP0023,Price Heights,741 Warner Green,Columbus,OH,60054,Townhouse,1,2007,3068,Gym,Philip Ponce,2020-10-24,Active
+PROP0024,Hudson Manor,310 Anthony Circle,Detroit,MI,80575,Single Family,1,1974,928,Parking,Anthony Rhodes,2015-09-15,Active
+PROP0025,Andrews Park,109 Hansen Oval,Cincinnati,OH,70991,Condo,8,1978,3138,None,Kara Brown,2021-05-17,Active
+PROP0026,Snyder Heights,109 Donna Drives Apt. 357,Joliet,IL,36667,Apartment,5,2012,2565,Parking,Michelle Richardson,2014-02-02,Active
+PROP0027,Gonzalez Heights,29471 Ray Track Apt. 825,Chicago,IL,56154,Single Family,1,1995,2189,"Pool, Gym",Michael Peters,2014-04-19,Active
+PROP0028,Rodriguez Commons,474 Austin Key Apt. 536,Akron,OH,21433,Condo,6,1981,1940,"Pool, Parking, Gym",Ralph Thompson,2024-02-27,Active
+PROP0029,Kennedy Heights,5287 Vasquez Coves Apt. 795,Lansing,MI,89999,Duplex,5,2011,3014,"Pool, Gym",Elizabeth Gonzalez,2019-08-31,Under Renovation
+PROP0030,Kelly Commons,4018 Anthony Track,Cleveland,OH,37157,Condo,17,1983,2442,"Pool, Gym",Jerry Bell,2018-01-14,Active
+PROP0031,Brown Commons,1849 Scott Cliff,Lansing,MI,27115,Townhouse,1,1988,2532,None,Jessica King,2013-06-27,Active
+PROP0032,Schultz Manor,85658 Kevin Village,Aurora,IL,32780,Apartment,11,1973,3172,None,Dylan Ward,2019-04-22,Active
+PROP0033,Mcdowell Park,482 Russell Plaza Apt. 114,Indianapolis,IN,55921,Single Family,1,2000,2859,None,Kayla Gallagher,2013-02-17,Active
+PROP0034,Scott Park,06407 Danny Shores,Milwaukee,WI,37645,Apartment,4,1974,1763,"Pool, Parking, Gym",Anna Estrada,2018-12-25,Active
+PROP0035,Bell Heights,43526 Davis Shoal Apt. 395,Madison,WI,95091,Duplex,21,2009,1135,"Pool, Parking, Gym",Mary Thompson,2016-09-10,Active
+PROP0036,Colon Place,512 Danielle Bridge Apt. 015,Racine,WI,43715,Townhouse,1,1983,2086,Gym,Jesus Thomas,2024-12-05,Active
+PROP0037,Vance Heights,159 Brian Mountain,Cincinnati,OH,84242,Condo,12,1970,2677,None,Robert Perez,2013-02-04,Under Renovation
+PROP0038,Guerrero Park,3411 Tony Estates Apt. 543,Detroit,MI,01356,Duplex,8,1986,1342,Parking,Andrea Ortiz,2020-09-03,Inactive
+PROP0039,Obrien Manor,43087 Megan Isle,Cincinnati,OH,42585,Townhouse,1,1998,3025,Parking,Christine Garcia,2012-12-23,Active
+PROP0040,Nelson Heights,9489 Crystal Streets Suite 715,Milwaukee,WI,05442,Duplex,11,1978,1883,"Pool, Gym",Edward Murray,2023-03-18,Inactive
+PROP0041,Martinez Place,99790 Brandon Pike Suite 748,Madison,WI,22091,Townhouse,1,2008,1662,Parking,Gerald Dillon,2020-03-04,Active
+PROP0042,Burke Heights,303 Brett Manor,Carmel,IN,21295,Condo,10,1975,3398,"Pool, Parking, Gym",Brian Lopez,2021-09-09,Active
+PROP0043,Campos Manor,438 Steven Garden Apt. 274,Detroit,MI,45052,Townhouse,1,2010,1872,Gym,Crystal Rangel,2023-08-01,Active
+PROP0044,Monroe Heights,63995 Sandra Centers Apt. 603,Kenosha,WI,12571,Duplex,2,1974,1410,None,John Hoffman,2023-04-17,Active
+PROP0045,Lopez Commons,30152 Cook Knoll Suite 000,Carmel,IN,58916,Duplex,6,1978,971,Parking,Paul Richard,2013-06-22,Active
+PROP0046,Mercer Manor,072 Wendy Stream,Dearborn,MI,86381,Apartment,23,2012,1221,Parking,Joan Wallace,2016-11-06,Active
+PROP0047,Conley Manor,806 Melissa Harbors,Rockford,IL,98703,Apartment,9,2021,1525,"Pool, Parking, Gym",Sean Sullivan,2014-08-10,Active
+PROP0048,Berry Manor,1537 Andrew Vista Suite 360,South Bend,IN,05940,Apartment,10,2020,1242,"Pool, Parking, Gym",Amy Johnson,2013-05-06,Inactive
+PROP0049,Blake Place,336 Barnett Pine,Aurora,IL,42546,Apartment,16,1989,1732,Gym,Faith Smith,2020-01-30,Active
+PROP0050,Larsen Place,43773 Ruiz Walks,Toledo,OH,41418,Townhouse,1,1974,1943,Parking,Samantha Webster,2019-04-08,Active
+PROP0051,Short Heights,645 Johnson Via,Rockford,IL,25026,Townhouse,1,1977,1869,Gym,Jennifer Moore,2017-02-18,Active
+PROP0052,Smith Park,294 Reese Land Apt. 301,Indianapolis,IN,24091,Single Family,1,1997,2215,Parking,Devon Wolf,2012-01-12,Active
+PROP0053,Clayton Manor,813 Julie Bridge Suite 411,Milwaukee,WI,95985,Condo,20,1986,981,"Pool, Parking, Gym",Brittany Weaver,2020-11-20,Active
+PROP0054,Sanchez Commons,09902 Michael Mill Suite 459,Madison,WI,19874,Townhouse,1,1974,2152,None,Michele Burns,2023-06-14,Active
+PROP0055,Sullivan Commons,858 Mooney Cliffs,Dearborn,MI,80618,Duplex,11,1990,2448,Parking,James Downs,2013-05-13,Active
+PROP0056,Hill Manor,4744 Davis Gardens,Toledo,OH,03640,Condo,23,2009,3131,Parking,Shelby Boyle,2015-10-29,Active
+PROP0057,Cooper Manor,5912 Barbara Fork,Dearborn,MI,32525,Townhouse,1,1997,3175,None,Peter Harris,2023-06-23,Active
+PROP0058,Price Manor,2831 Porter Spur Suite 315,Joliet,IL,77243,Condo,23,2002,2738,Gym,Laurie Rodriguez,2024-04-07,Active
+PROP0059,Rios Heights,114 Rachel Mills,Carmel,IN,92344,Duplex,12,2022,1762,Parking,Nicole Irwin,2017-10-22,Active
+PROP0060,Woods Heights,78462 Green Club,Cleveland,OH,04304,Single Family,1,1985,2746,None,Christopher Johnson,2016-09-18,Active
+PROP0061,Robinson Park,004 Davis Track Suite 158,Lansing,MI,57960,Condo,22,1982,2372,"Pool, Parking, Gym",Kevin Stephens,2017-05-27,Active
+PROP0062,Coleman Commons,1570 Victor Plains,Columbus,OH,29440,Single Family,1,1984,1520,None,Ricky Lewis,2019-11-02,Active
+PROP0063,Thompson Commons,29137 Robinson Circles Apt. 465,Madison,WI,76323,Single Family,1,1978,2703,None,Lisa Gill,2019-10-12,Under Renovation
+PROP0064,Carr Park,621 Patrick Parks Suite 576,Green Bay,WI,53003,Condo,21,1997,3044,"Pool, Parking, Gym",Mark Fowler,2017-06-22,Inactive
+PROP0065,Grant Manor,429 Dillon Fords Apt. 801,Joliet,IL,06751,Townhouse,1,2010,1935,None,Michelle Savage,2021-05-26,Active
+PROP0066,Reynolds Place,03119 Phyllis Ford,Cincinnati,OH,45383,Condo,4,1985,1912,Parking,Louis Cole,2015-02-20,Active
+PROP0067,Smith Manor,120 Ferguson Plaza,Milwaukee,WI,23989,Apartment,6,1994,1425,Gym,Brian Larson,2022-06-08,Active
+PROP0068,Evans Commons,626 Carroll Spring,Naperville,IL,84458,Duplex,16,1973,1647,"Pool, Parking, Gym",Elizabeth Perez,2021-08-10,Active
+PROP0069,Evans Commons,92719 Brown Junction Suite 007,Milwaukee,WI,83268,Duplex,14,1970,2240,Parking,Samantha Carlson,2020-12-08,Active
+PROP0070,Yang Manor,3117 Jacobs View,Rockford,IL,84272,Duplex,21,2001,1698,Parking,Taylor Reed,2012-04-13,Active
+PROP0071,Weiss Commons,3586 Carol Land,Lansing,MI,94893,Townhouse,1,2016,1476,"Pool, Parking, Gym",Sean Johnson,2017-01-29,Inactive
+PROP0072,Zimmerman Commons,866 Collins Mountains Apt. 970,Racine,WI,87175,Single Family,1,2007,3111,"Pool, Gym",Jennifer Hunter,2018-09-14,Active
+PROP0073,Hampton Heights,649 Medina Courts Apt. 692,Aurora,IL,31550,Condo,7,1986,2352,Parking,Michelle Gonzalez,2021-07-30,Active
+PROP0074,Tate Commons,98322 Laura Streets Apt. 247,Evansville,IN,08944,Condo,10,1986,1135,"Pool, Parking, Gym",Jordan Mckenzie,2012-07-03,Active
+PROP0075,Miller Manor,6859 Elizabeth Summit Suite 327,Milwaukee,WI,45121,Townhouse,1,2011,1081,"Pool, Gym",Zachary Bowers,2024-01-07,Active
+PROP0076,Stewart Park,3248 Patterson Squares Apt. 608,Cleveland,OH,10264,Single Family,1,1979,1777,Gym,James Bradley,2011-08-04,Active
+PROP0077,Dunn Place,329 Baker Springs,Flint,MI,76380,Apartment,16,2019,2310,Gym,Misty Lewis,2012-08-04,Active
+PROP0078,Jackson Heights,5036 Miller Fort Apt. 633,Ann Arbor,MI,15944,Townhouse,1,2007,905,Parking,Sharon Lawrence,2017-08-18,Active
+PROP0079,Wolfe Park,5540 Myers Freeway,Joliet,IL,87678,Apartment,4,2014,3369,Gym,James Kaufman Jr.,2025-01-22,Active
+PROP0080,Simmons Park,47340 Alvarez Station,Carmel,IN,72104,Single Family,1,2020,968,Parking,Natalie Gonzalez,2015-09-28,Active
+PROP0081,Meadows Place,4189 Smith River Suite 421,Indianapolis,IN,62701,Duplex,22,1970,2520,"Pool, Parking, Gym",Alyssa Peters,2012-04-29,Active
+PROP0082,Hernandez Manor,120 Randall Vista,South Bend,IN,69316,Apartment,15,2016,2937,Parking,Lauren Friedman MD,2013-09-19,Active
+PROP0083,Miller Park,9711 James Cliff Suite 917,Kenosha,WI,28191,Condo,15,1987,2120,Gym,Christine Moreno,2023-11-14,Active
+PROP0084,Walter Commons,7501 Lee Mall,Dearborn,MI,33228,Condo,9,2006,3299,"Pool, Parking, Gym",Terry Kirby,2013-10-15,Active
+PROP0085,Barry Manor,74107 Sarah Forest Suite 930,Naperville,IL,79190,Apartment,17,1992,1858,Parking,Zachary Watson,2016-06-18,Active
+PROP0086,Porter Park,55943 Patrick Track Suite 268,Green Bay,WI,71079,Duplex,2,1982,1150,Gym,John Beck,2018-12-17,Active
+PROP0087,Lawrence Commons,3839 Price Port,Rockford,IL,79042,Apartment,24,2011,2810,"Pool, Parking, Gym",Elizabeth Brown,2024-03-15,Active
+PROP0088,Williams Manor,6171 Ortiz Springs Suite 157,Dearborn,MI,26012,Apartment,14,1989,3182,Parking,Christopher Murray,2017-11-06,Active
+PROP0089,Schultz Place,328 Kim Fords,Green Bay,WI,65046,Condo,19,1992,2658,Parking,Deborah Dunn,2024-04-13,Active
+PROP0090,Downs Heights,499 Carrie Stravenue Apt. 624,Columbus,OH,08074,Apartment,12,2017,2994,Gym,Paula Johnson,2015-07-24,Active
+PROP0091,Lopez Park,31358 Douglas Groves,Naperville,IL,29184,Duplex,18,1988,1211,Gym,Jacqueline Turner,2013-08-06,Active
+PROP0092,Johnson Heights,5676 Glenn Route Suite 612,Fort Wayne,IN,99260,Townhouse,1,2015,2987,Gym,Jasmin Oconnor,2018-11-14,Active
+PROP0093,Garcia Manor,01665 Robertson Points Suite 401,Flint,MI,70983,Townhouse,1,2010,2810,"Pool, Gym",Jeff Jacobson,2017-03-31,Inactive
+PROP0094,Costa Commons,2551 Silva Flats Apt. 915,Green Bay,WI,81554,Condo,17,1991,1555,"Pool, Gym",Christina Adams,2012-11-11,Active
+PROP0095,Jennings Commons,5084 Lori Oval,Chicago,IL,15262,Single Family,1,2001,1103,None,Caleb Trujillo,2012-05-10,Active
+PROP0096,Herrera Place,311 Spencer Stravenue,Ann Arbor,MI,44260,Apartment,20,1975,1816,"Pool, Gym",Brandon Barton,2014-03-24,Active
+PROP0097,Sweeney Manor,174 Moore Rue Suite 639,Rockford,IL,71974,Duplex,21,2019,2940,"Pool, Parking, Gym",Jennifer Young,2016-12-31,Active
+PROP0098,Guerrero Place,1523 Miller Village Suite 297,Naperville,IL,05033,Duplex,15,2006,3343,"Pool, Gym",Dana Adams,2023-10-19,Active
+PROP0099,Miller Heights,0995 Francis Turnpike,Ann Arbor,MI,10253,Apartment,10,1980,1782,Gym,Michael Buck,2020-07-24,Active
+PROP0100,Thompson Park,9568 Williams Burg,Columbus,OH,53215,Condo,16,2000,1992,"Pool, Gym",Stephen Davis,2023-01-17,Active
